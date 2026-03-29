@@ -1,2 +1,4 @@
 # DSA-Solved-Questions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+Here in this Repo I have collections of all Leetcode question that I successfully Submitted on Leetcode Platform.
+
