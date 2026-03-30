@@ -8,5 +8,14 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
