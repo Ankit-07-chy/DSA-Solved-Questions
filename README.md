@@ -18,4 +18,20 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
