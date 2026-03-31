@@ -11,6 +11,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +50,12 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Greedy
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
