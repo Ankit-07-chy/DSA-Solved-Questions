@@ -5,10 +5,41 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        """
+        Approach 2
+        """
+        n = len(lists) # gives total no of list
+        if n<=0:
+            return None
+        elif n == 1:
+            return lists[0]
+        else:
+            result = lists[0]
+            for i in range(1,n):
+                result = self.mergeTwoLists(result,lists[i])
+            return result
+    def mergeTwoLists(self,l1,l2):
+        dummy = ListNode(0)
+        temp = dummy
+        while l1 and l2:
+            if l1.val < l2.val:
+                temp.next = l1
+                l1 = l1.next
+                temp = temp.next
+            else:
+                temp.next = l2
+                l2 = l2.next
+                temp = temp.next
+        if l1:
+            temp.next = l1
+        if l2:
+            temp.next = l2
+        return dummy.next
+
         
         '''
         Approach 1
-        '''
+
         aj = []
         n = len(lists)
         for i in range(n):
@@ -28,3 +59,5 @@ class Solution:
             return head
         else:
             return None
+        '''
+        
