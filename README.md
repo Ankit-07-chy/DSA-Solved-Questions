@@ -80,10 +80,12 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
@@ -106,6 +108,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +121,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
