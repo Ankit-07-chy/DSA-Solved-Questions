@@ -5,9 +5,28 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        '''
+        Approach 3. using Priority Queue.
+        '''
+        import heapq
+        min_heap = []
+        for i,node in enumerate(lists):
+            if node:
+                heapq.heappush(min_heap,(node.val,i,node))
+        dummy = ListNode(0,None)
+        tail = dummy
+        while min_heap:
+            val,i,curr_node = heapq.heappop(min_heap)
+            tail.next = curr_node
+            tail = tail.next
+            if curr_node.next:
+                heapq.heappush(min_heap,(curr_node.next.val,i,curr_node.next))
+        return dummy.next
+
+
         """
         Approach 2
-        """
+
         n = len(lists) # gives total no of list
         if n<=0:
             return None
@@ -18,24 +37,26 @@ class Solution:
             for i in range(1,n):
                 result = self.mergeTwoLists(result,lists[i])
             return result
-    def mergeTwoLists(self,l1,l2):
-        dummy = ListNode(0)
-        temp = dummy
-        while l1 and l2:
-            if l1.val < l2.val:
+        def mergeTwoLists(self,l1,l2):
+            dummy = ListNode(0)
+            temp = dummy
+            while l1 and l2:
+                if l1.val < l2.val:
+                    temp.next = l1
+                    l1 = l1.next
+                    temp = temp.next
+                else:
+                    temp.next = l2
+                    l2 = l2.next
+                    temp = temp.next
+            if l1:
                 temp.next = l1
-                l1 = l1.next
-                temp = temp.next
-            else:
+            if l2:
                 temp.next = l2
-                l2 = l2.next
-                temp = temp.next
-        if l1:
-            temp.next = l1
-        if l2:
-            temp.next = l2
-        return dummy.next
+            return dummy.next
 
+        """
+        
         
         '''
         Approach 1
