@@ -6,11 +6,11 @@ class Solution:
         for i in range(n_rows):
             if moves[i] == 'L':
                 row += 1
-            if moves[i] == 'R':
+            elif moves[i] == 'R':
                 row -= 1
-            if moves[i] == 'U':
+            elif moves[i] == 'U':
                 col -= 1
-            if moves[i] == 'D':
+            elif moves[i] == 'D':
                 col += 1
         if row != 0 or col != 0 :
             return False
