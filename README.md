@@ -100,6 +100,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0838-design-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
