@@ -114,6 +114,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +135,5 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
