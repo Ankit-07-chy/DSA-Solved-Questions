@@ -30,22 +30,26 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
