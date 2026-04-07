@@ -58,6 +58,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
@@ -85,6 +86,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -115,6 +117,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0838-design-linked-list) |
@@ -135,10 +138,12 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
