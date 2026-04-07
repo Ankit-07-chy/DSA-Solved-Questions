@@ -84,6 +84,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
+| [2178-walking-robot-simulation-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
@@ -107,6 +108,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0838-design-linked-list) |
+| [2178-walking-robot-simulation-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2178-walking-robot-simulation-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
