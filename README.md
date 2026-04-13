@@ -20,6 +20,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
@@ -69,6 +70,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -171,4 +173,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
