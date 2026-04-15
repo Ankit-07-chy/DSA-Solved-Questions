@@ -51,6 +51,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0100-same-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -59,6 +60,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0101-symmetric-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -182,4 +184,12 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
