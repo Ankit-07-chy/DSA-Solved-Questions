@@ -13,6 +13,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0657-robot-return-to-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0657-robot-return-to-origin) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Array
@@ -24,6 +25,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
