@@ -33,6 +33,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -195,4 +197,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->
