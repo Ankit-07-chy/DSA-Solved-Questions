@@ -201,4 +201,5 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4168-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
