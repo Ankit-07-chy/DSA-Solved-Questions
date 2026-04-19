@@ -24,6 +24,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
@@ -97,6 +98,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Greedy
 |  |
 | ------- |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
