@@ -11,6 +11,8 @@ class Solution:
                     for j in range(len(word)):
                         if curr_word[j]!=word[j]:
                             count += 1
+                        if count > 2:
+                            break
                 if count <= 2:
                     return True
             return False
