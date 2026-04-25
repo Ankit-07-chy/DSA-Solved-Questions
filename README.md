@@ -36,6 +36,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -104,6 +105,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Data Stream
 |  |
 | ------- |
@@ -215,10 +218,15 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Math
 |  |
 | ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4168-mirror-distance-of-an-integer) |
 ## Counting
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3019-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
