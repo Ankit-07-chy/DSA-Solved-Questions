@@ -25,6 +25,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -64,6 +65,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0199-binary-tree-right-side-view](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
@@ -74,6 +76,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0199-binary-tree-right-side-view](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +190,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Matrix
 |  |
 | ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Merge Sort
 |  |
@@ -210,6 +214,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
