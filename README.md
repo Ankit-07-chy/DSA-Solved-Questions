@@ -37,6 +37,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
@@ -191,6 +192,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
@@ -198,6 +200,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Merge Sort
 |  |
@@ -217,6 +220,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 ## Union-Find
 |  |
 | ------- |
