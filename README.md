@@ -43,6 +43,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3975-xor-after-range-multiplication-queries-ii) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -194,6 +195,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
