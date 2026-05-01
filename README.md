@@ -23,6 +23,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -191,6 +192,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
@@ -238,6 +240,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
