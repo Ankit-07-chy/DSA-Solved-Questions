@@ -23,6 +23,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -204,6 +205,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -243,6 +245,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
