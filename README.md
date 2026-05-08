@@ -44,6 +44,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3981-jump-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3981-jump-game-ix) |
@@ -87,6 +88,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -254,6 +257,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4168-mirror-distance-of-an-integer) |
 ## Counting
@@ -264,4 +268,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Number Theory
+|  |
+| ------- |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
