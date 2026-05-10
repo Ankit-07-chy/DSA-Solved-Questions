@@ -41,6 +41,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
@@ -206,6 +207,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3981-jump-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3981-jump-game-ix) |
