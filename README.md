@@ -39,6 +39,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -147,6 +148,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2043-cyclically-rotating-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2178-walking-robot-simulation-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
