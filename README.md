@@ -13,6 +13,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0657-robot-return-to-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0812-rotate-string) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -134,6 +135,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
 ## String Matching
@@ -269,6 +271,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
