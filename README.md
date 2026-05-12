@@ -33,6 +33,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1036-rotting-oranges](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -127,6 +128,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
@@ -135,6 +137,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Greedy
 |  |
 | ------- |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
