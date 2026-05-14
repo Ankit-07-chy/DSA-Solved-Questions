@@ -85,6 +85,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0210-course-schedule-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -100,6 +101,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0210-course-schedule-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -280,6 +282,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0207-course-schedule](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 ## Math
 |  |
 | ------- |
@@ -309,4 +312,5 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0207-course-schedule](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
