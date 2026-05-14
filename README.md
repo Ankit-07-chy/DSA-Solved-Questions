@@ -10,6 +10,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0812-rotate-string) |
@@ -121,6 +122,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
