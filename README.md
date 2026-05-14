@@ -48,6 +48,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
@@ -122,6 +123,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
+| [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -138,6 +140,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Greedy
