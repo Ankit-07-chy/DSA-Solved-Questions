@@ -10,6 +10,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -268,6 +269,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
