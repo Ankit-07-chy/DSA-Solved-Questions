@@ -8,6 +8,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -126,6 +127,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
@@ -303,6 +305,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
