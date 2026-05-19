@@ -53,6 +53,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
@@ -143,6 +144,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1447-jump-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1447-jump-game-iv) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -225,6 +227,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Data Stream
@@ -287,6 +290,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
