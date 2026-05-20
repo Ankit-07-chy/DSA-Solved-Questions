@@ -1,3 +1,18 @@
+# Tabulation with space optimization
+class Solution:
+    def fib(self, n: int) -> int:
+        prev2 = 0; prev1 = 1; 
+        if n == 0:
+            return 0
+        if n == 1:
+            return 1
+        for i in range(2,n+1):
+            curr = prev1 + prev2
+            temp = prev1
+            prev1 = curr
+            prev2 = temp
+        return curr
+"""
 # Tabulation
 class Solution:
     def fib(self, n: int) -> int:
@@ -8,7 +23,7 @@ class Solution:
         for i in range(2,n+1):
             dp[i] = dp[i-1] + dp[i-2]
         return dp[n]
-
+"""
 '''
 # memoization
 class Solution:
