@@ -56,6 +56,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
@@ -146,6 +147,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
@@ -350,4 +352,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
