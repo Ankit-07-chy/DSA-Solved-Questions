@@ -252,11 +252,13 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
+| [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -323,6 +325,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
+| [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
@@ -356,4 +359,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
