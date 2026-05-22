@@ -1,4 +1,25 @@
+# Tabulation with space optimization
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+        n = len(nums)
+        prev1 = nums[0]; prev2 = 0
+        
+        for i in range(1,n):
+            pick = nums[i]
+            if i > 1:
+                pick = prev2 + nums[i]
+            not_pick = 0 + prev1 
+            curr = max(pick,not_pick)
+            prev2 = prev1; prev1 = curr
+
+        return prev1
+            
+
+            
+            
+
 # tabulation
+'''
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
@@ -11,10 +32,11 @@ class Solution:
                 pick = dp[i-2] + nums[i]
             
             not_pick = dp[i-1]
+
             dp[i] = max(pick,not_pick)
         return dp[n-1]
 
-
+'''
 # Memoization
 """
 class Solution:
