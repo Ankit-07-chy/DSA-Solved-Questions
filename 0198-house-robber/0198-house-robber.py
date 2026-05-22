@@ -1,3 +1,22 @@
+# tabulation
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+        n = len(nums)
+        dp = [-1]*(n+1)
+        dp[0] = nums[0]
+        for i in range(1,n):
+            if i-2 < 0:
+                pick = 0 + nums[i]
+            else:
+                pick = dp[i-2] + nums[i]
+            
+            not_pick = dp[i-1]
+            dp[i] = max(pick,not_pick)
+        return dp[n-1]
+
+
+# Memoization
+"""
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
@@ -12,8 +31,7 @@ class Solution:
                 not_pick = find_sequence(dp,idx-1,nums) + 0
                 dp[idx] = max(pick,not_pick)
             return dp[idx]
-
-        return find_sequence(dp,len(nums)-1,nums)
+        return find_sequence(dp,len(nums)-1,nums)"""
 #Recursion Solution with TLE
 '''
 class Solution:
