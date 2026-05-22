@@ -30,6 +30,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -229,6 +230,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
