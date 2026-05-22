@@ -34,6 +34,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -263,6 +264,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
