@@ -1,3 +1,5 @@
+# Memoization on Recursion wala Approach
+
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
@@ -21,7 +23,7 @@ class Solution:
         ans1 = find_seq(dp1,nums,len(nums)-2,-1) # taht 0 is starting boundary
 
         # Leaveout the first and find out for remaining
-        dp = [ -1]*(n)
-        ans2 = find_seq(dp,nums,len(nums)-1,0) # that 1 is starting boundary
+        dp1 = [ -1]*(n)
+        ans2 = find_seq(dp1,nums,len(nums)-1,0) # that 1 is starting boundary
         return max(ans1,ans2)
         
