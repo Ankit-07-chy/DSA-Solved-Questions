@@ -17,6 +17,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -194,12 +195,14 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0657-robot-return-to-origin) |
+| [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2178-walking-robot-simulation-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2178-walking-robot-simulation-ii) |
@@ -307,6 +310,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0148-sort-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
