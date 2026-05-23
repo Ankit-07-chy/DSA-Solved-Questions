@@ -19,6 +19,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0812-rotate-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1720-crawler-log-folder](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1720-crawler-log-folder) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2470-removing-stars-from-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -48,6 +49,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1447-jump-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1447-jump-game-iv) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1720-crawler-log-folder](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1720-crawler-log-folder) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -196,6 +198,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 ## Simulation
