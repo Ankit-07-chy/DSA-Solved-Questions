@@ -48,6 +48,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1428-jump-game-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1447-jump-game-iv) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1720-crawler-log-folder](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1720-crawler-log-folder) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -175,6 +176,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
@@ -229,6 +231,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
