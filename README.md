@@ -49,6 +49,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2043-cyclically-rotating-a-grid) |
