@@ -1,5 +1,15 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
+        n = len(nums)
+        peak = 0
+        for i in range(n):
+            if nums[i] > nums[(i+1)%n]:
+                peak += 1
+        return peak <= 1
+
+'''
+class Solution:
+    def check(self, nums: List[int]) -> bool:
         # find the position for Crack, Put all those Element in an Array from crack Index to end  and 0 to crack Index, then check for sorted into that array
         index_crack = 0
         n = len(nums)
@@ -16,3 +26,4 @@ class Solution:
             if expected_array[i+1] < expected_array[i]:
                 return False
         return True
+        '''
