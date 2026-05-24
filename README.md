@@ -47,6 +47,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1036-rotting-oranges](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1447-jump-game-iv) |
+| [1466-jump-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1466-jump-game-v) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -176,6 +177,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1466-jump-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1466-jump-game-v) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -284,6 +286,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1466-jump-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1466-jump-game-v) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
