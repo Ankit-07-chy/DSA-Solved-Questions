@@ -43,6 +43,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0733-flood-fill) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1428-jump-game-iii) |
@@ -252,6 +253,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
