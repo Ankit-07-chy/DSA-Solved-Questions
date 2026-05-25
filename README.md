@@ -71,6 +71,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
+| [3221-find-the-peaks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -393,4 +394,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
