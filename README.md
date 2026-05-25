@@ -20,6 +20,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1720-crawler-log-folder](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1720-crawler-log-folder) |
+| [2001-jump-game-vii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2001-jump-game-vii) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2470-removing-stars-from-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -290,6 +291,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1466-jump-game-v) |
+| [2001-jump-game-vii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2001-jump-game-vii) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
@@ -331,6 +333,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2001-jump-game-vii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2001-jump-game-vii) |
 | [2721-sum-of-distances](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2721-sum-of-distances) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 ## Union-Find
@@ -400,4 +403,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3221-find-the-peaks) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->
