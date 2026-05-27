@@ -1,24 +1,18 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
         n = len(word)
-        low = [[] for _ in range(26)]
+        low = [-1]*26
         high = [float('inf')]*26
         for idx,val in enumerate(word):
             temp = ord(val)
             if 65<=temp<=90:
                 high[temp-65] = min(high[temp-65],idx)
             else:
-                low[temp-97].append(idx)
+                low[temp-97] = max(low[temp-97],idx)
         count = 0
         for l1, val in list(zip(low,high)):
-            if l1:
-                temp = True
-            
-                for e in l1 :
-                    if e > val:
-                        temp = False
-                        break
-                if temp and val != float('inf'):
+            if l1 != -1 and val != float('inf'):
+                if l1<val:
                     count += 1
         return count
 # Brute Force
