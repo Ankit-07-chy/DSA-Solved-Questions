@@ -81,6 +81,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [3221-find-the-peaks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
@@ -371,6 +372,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1013-fibonacci-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
