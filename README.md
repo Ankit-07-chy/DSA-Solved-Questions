@@ -82,6 +82,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
 | [3221-find-the-peaks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3435-block-placement-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -268,6 +269,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2634-minimum-common-value) |
+| [3435-block-placement-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3435-block-placement-queries) |
 | [3750-closest-equal-element-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Data Stream
@@ -430,4 +432,12 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3435-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
