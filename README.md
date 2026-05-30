@@ -41,6 +41,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0198-house-robber) |
@@ -295,6 +296,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0062-unique-paths](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0213-house-robber-ii) |
@@ -315,6 +317,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
