@@ -1,4 +1,29 @@
+# Tabulation
+class Solution:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+        m = len(obstacleGrid); n = len(obstacleGrid[0])
+        dp = [[0]*(n+1) for i in range(m+1)]
+        for i in range(m):
+            for j in range(n):
+                if i == 0 and j == 0:
+                    if obstacleGrid[i][j] == 1:
+                        dp[i][j] = 0
+                    else:
+                        dp[i][j] = 1
+                else:
+                    left = 0; right = 0
+                    if i > 0: left = dp[i-1][j]
+                    if j > 0: right = dp[i][j-1]
+                    if obstacleGrid[i][j] == 1:
+                        dp[i][j] = 0
+                    else:
+                        dp[i][j]=left+right
+
+        return dp[m-1][n-1]
+
+
 # Recursion + Memo
+"""
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         m = len(obstacleGrid); n = len(obstacleGrid[0])
@@ -13,7 +38,7 @@ class Solution:
                 right = find(dp,obstacleGrid,row,col-1)
                 dp[row][col] = left + right
             return dp[row][col]
-        return find(dp,obstacleGrid,m-1,n-1)
+        return find(dp,obstacleGrid,m-1,n-1)"""
 # Just Recursion Approach 
 '''
 class Solution:
