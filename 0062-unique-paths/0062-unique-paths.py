@@ -1,3 +1,20 @@
+# Tabulation - Bottom up
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        dp = [[-1]*(n+1) for i in range(m+1)]
+        for i in range(m):
+            for j in range(n):
+                if i == 0 and j == 0:
+                    dp[i][j] = 1
+                else:
+                    down = 0; right = 0
+                    if i > 0: down = dp[i-1][j]
+                    if j > 0: right = dp[i][j-1]
+                    dp[i][j] = down + right
+        return dp[m-1][n-1]
+
+# recursion with memo
+"""
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         dp = [[-1]*(n+1) for i in range(m+1)]
@@ -9,7 +26,7 @@ class Solution:
             if dp[i][j] == -1:
                 dp[i][j] = find(i+1,j,dp)+find(i,j+1,dp)
             return dp[i][j]
-        return find(0,0,dp)
+        return find(0,0,dp)"""
 # recursion Approach
 '''
 class Solution:
