@@ -292,6 +292,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0213-house-robber-ii) |
@@ -366,6 +367,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0804-rotated-digits) |
@@ -418,4 +420,8 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2001-jump-game-vii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2001-jump-game-vii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
