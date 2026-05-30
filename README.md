@@ -48,6 +48,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0198-house-robber](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0733-flood-fill) |
@@ -344,6 +345,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
