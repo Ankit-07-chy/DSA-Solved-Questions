@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&sortBy=submissions)
 
 ## Solved On
-01 Jun 2026 at 01:44 pm
+01 Jun 2026 at 01:45 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&sortBy=submissions">Missing in Array</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 14pt;">You are given an array <strong>arr[]</strong> of size <strong>n - 1</strong> that contains<strong> distinct integers </strong>in the range from 1 to n (inclusive). This array represents a permutation of the integers from 1 to n with <strong>one element missing</strong>. Your task is to identify and return the <strong>missing element</strong>.</span></p>
 <p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
