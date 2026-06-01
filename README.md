@@ -42,6 +42,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -167,6 +168,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0242-valid-anagram) |
@@ -330,6 +332,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [0048-rotate-image](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
