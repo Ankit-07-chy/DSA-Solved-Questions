@@ -72,6 +72,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
@@ -200,6 +201,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2245-destroying-asteroids](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2892-check-if-array-is-good) |
@@ -212,6 +214,7 @@ Here in this Repo I have collections of all Leetcode question that I successfull
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3770-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
