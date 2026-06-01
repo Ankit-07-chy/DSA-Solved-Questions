@@ -1,3 +1,19 @@
+# Tabulation -> is always Opposite of Recursion
+class Solution:
+    def minimumTotal(self, triangle: List[List[int]]) -> int:
+        n = len(triangle)
+        dp = [[0]*(i+1) for i in range(n)]
+        for idx,val in enumerate(triangle[n-1]):
+            dp[n-1][idx] = val
+        for i in range(n-2,-1,-1):
+            for j in range(i,-1,-1):
+                down = dp[i+1][j] + triangle[i][j]
+                diag = dp[i+1][j+1] + triangle[i][j]
+                dp[i][j] = min(down,diag)
+        return dp[0][0]
+
+
+'''
 # Recursion with memo
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
@@ -11,7 +27,7 @@ class Solution:
                 diag = triangle[row][col]+find(dp,row+1,col+1)
                 dp[row][col] = min(down,diag)
             return dp[row][col]
-        return find(dp,0,0)
+        return find(dp,0,0)'''
 """
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
