@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -45,9 +46,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
