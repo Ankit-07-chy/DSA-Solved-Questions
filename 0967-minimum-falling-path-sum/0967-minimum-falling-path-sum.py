@@ -1,4 +1,22 @@
+# Tabulation for This
+class Solution:
+    def minFallingPathSum(self, matrix: List[List[int]]) -> int:
+        n = len(matrix); m = len(matrix[0])
+        dp = [[None]*m for i in range(n)]
+        dp[0] = matrix[0][:]
+        for i in range(1,n):
+            for j in range(0,m):
+                st = matrix[i][j] + dp[i-1][j]
+                left = inf; right = inf
+                if j >= 1:
+                    left = matrix[i][j] + dp[i-1][j-1]
+                if j < m - 1:
+                    right = matrix[i][j] + dp[i-1][j+1]
+                dp[i][j] = min(st,left,right)
+        return min(dp[n-1])
+
 # Recursion + memoization
+"""
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
         n = len(matrix); m = len(matrix[0])
@@ -18,7 +36,7 @@ class Solution:
         for i in range(m):
             mini = min(mini,find(dp,n-1,i))
         return mini
-
+"""
 # recursion Approach with TLE
 '''
 class Solution:
