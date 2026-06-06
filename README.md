@@ -9,6 +9,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -37,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
