@@ -75,4 +75,8 @@
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
