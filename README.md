@@ -14,6 +14,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -80,4 +81,16 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0182-duplicate-emails) |
 | [2057-count-salary-categories](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2057-count-salary-categories) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
