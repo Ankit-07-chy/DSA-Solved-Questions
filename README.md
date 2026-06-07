@@ -79,4 +79,5 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0182-duplicate-emails) |
+| [2057-count-salary-categories](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
