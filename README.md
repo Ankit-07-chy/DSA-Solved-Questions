@@ -119,3 +119,4 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
+| 2 | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 12:02 pm |
