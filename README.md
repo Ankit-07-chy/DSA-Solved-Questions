@@ -25,6 +25,7 @@
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
