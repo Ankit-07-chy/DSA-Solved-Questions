@@ -4,6 +4,22 @@
 #         self.val = val
 #         self.next = next
 
+# using recursion -> it will take recursion stack space too
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        def rev(node):
+            if node == None or node.next == None:
+                return node
+            t = rev(node.next)
+            front = node.next
+            front.next = node
+            node.next = None
+            return t
+            
+        return rev(head)
+
+
+"""
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         prev1 = None; curr = head
@@ -42,3 +58,4 @@ class Solution:
             else:
                 curr.next = None
         return res'''
+        """
