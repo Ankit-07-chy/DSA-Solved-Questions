@@ -108,4 +108,12 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
