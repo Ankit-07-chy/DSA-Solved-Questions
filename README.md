@@ -86,6 +86,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0610-triangle-judgement) |
 | [2057-count-salary-categories](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2057-count-salary-categories) |
