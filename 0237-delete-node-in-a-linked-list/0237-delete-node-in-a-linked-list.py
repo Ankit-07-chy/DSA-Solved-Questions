@@ -3,7 +3,14 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+class Solution:
+    def deleteNode(self, node):
+        if node.next:
+            node.val = node.next.val
+        node.next = node.next.next
 
+
+'''
 class Solution:
     def deleteNode(self, node):
         """
@@ -15,4 +22,4 @@ class Solution:
             node.val = node.next.val
             prev_node = node
             node = node.next
-        prev_node.next = None
+        prev_node.next = None'''
