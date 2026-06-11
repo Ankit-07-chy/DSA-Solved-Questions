@@ -93,6 +93,7 @@
 | [0183-customers-who-never-order](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0610-triangle-judgement) |
+| [0627-swap-sex-of-employees](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0627-swap-sex-of-employees) |
 | [2057-count-salary-categories](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2057-count-salary-categories) |
 ## Hash Table
 |  |
