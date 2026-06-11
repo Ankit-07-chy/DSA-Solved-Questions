@@ -1,6 +1,7 @@
 | # | Problem | Platform | Difficulty | Date Solved | Time |
 |---|---------|----------|------------|-------------|------|
 | 1 | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&sortBy=submissions) | GeeksForGeeks | Easy | 01 Jun 2026 | 01:45 pm |
+| 2 | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 12:02 pm |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -140,4 +141,4 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
-| 2 | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 12:02 pm |
+
