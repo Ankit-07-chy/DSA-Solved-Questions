@@ -88,6 +88,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0183-customers-who-never-order) |
