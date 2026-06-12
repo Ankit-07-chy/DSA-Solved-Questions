@@ -96,6 +96,7 @@
 | [0577-employee-bonus](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0627-swap-sex-of-employees) |
 | [1541-top-travellers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1541-top-travellers) |
 | [2057-count-salary-categories](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2057-count-salary-categories) |
