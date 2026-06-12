@@ -94,6 +94,7 @@
 | [0182-duplicate-emails](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0620-not-boring-movies) |
