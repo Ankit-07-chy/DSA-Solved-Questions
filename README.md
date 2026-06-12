@@ -19,6 +19,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4005-maximum-total-subarray-value-i) |
@@ -55,9 +56,11 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
 |  |
 | ------- |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
@@ -67,6 +70,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -112,6 +116,7 @@
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,5 +153,9 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
 
