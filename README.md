@@ -23,6 +23,7 @@
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4005-maximum-total-subarray-value-i) |
+| [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
