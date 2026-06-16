@@ -131,6 +131,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
 ## Linked List
 |  |
