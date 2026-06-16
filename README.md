@@ -183,3 +183,4 @@
 | 3 | [Maximum Meetings in One Room](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1) | GeeksForGeeks | Medium | 15 Jun 2026 | 10:33 am |
 | 4 | [Longest Valid Word with All Prefixes](https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 12:41 pm |
 | 5 | [Count of distinct substrings](https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 01:55 pm |
+| 6 | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 08:31 pm |
