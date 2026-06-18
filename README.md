@@ -14,6 +14,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -192,5 +193,6 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
 
