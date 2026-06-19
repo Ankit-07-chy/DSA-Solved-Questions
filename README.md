@@ -204,3 +204,4 @@
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
 | 7 | [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | GeeksForGeeks | Medium | 18 Jun 2026 | 10:43 pm |
+| 8 | [Shortest Path in Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 11:45 am |
