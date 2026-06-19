@@ -75,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0050-powx-n) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -173,6 +174,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
