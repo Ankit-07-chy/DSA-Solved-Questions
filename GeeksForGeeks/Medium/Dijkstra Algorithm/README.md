@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 
 ## Solved On
-19 Jun 2026 at 09:37 pm
+19 Jun 2026 at 09:38 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1">Dijkstra Algorithm</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 14pt;">Given an undirected, weighted graph with <strong>V&nbsp;</strong>vertices numbered from 0 to V-1 and <strong>E&nbsp;</strong>edges, represented by 2d array <strong>edges[][]</strong>, where edges[i]=[u, v, w] represents the <strong>edge</strong> between the nodes u and v having w <strong>edge weight</strong>.<br><span style="font-size: 18.6667px;">You have to find the <strong>shortest distance </strong>of all the vertices from the source vertex&nbsp;</span><strong style="font-size: 18.6667px;">src</strong><span style="font-size: 18.6667px;">, </span></span><span style="font-size: 18.6667px;">and return an array of integers where the <strong>ith</strong> element denotes the shortest distance between <strong>ith</strong> node</span><span style="font-size: 18.6667px;">&nbsp;and source vertex</span><strong style="font-size: 18.6667px;">&nbsp;src</strong><span style="font-size: 18.6667px;">.</span></p>
 <p><span style="font-size: 14pt;"><strong>Note: </strong>The Graph is connected and doesn't contain any negative weight edge.<br>It is guaranteed that all the shortest distance will fit in a 32-bit integer.</span></p>
