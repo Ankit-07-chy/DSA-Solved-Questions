@@ -205,3 +205,4 @@
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
 | 9 | [Shortest path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 01:43 pm |
+| 10 | [Dijkstra Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 09:37 pm |
