@@ -8,6 +8,11 @@
 | 6 | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 08:31 pm |
 | 7 | [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | GeeksForGeeks | Medium | 18 Jun 2026 | 10:43 pm |
 | 8 | [Shortest Path in Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 11:45 am |
+| 9 | [Shortest path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 01:43 pm |
+| 10 | [Dijkstra Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 09:38 pm |
+
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -204,5 +209,3 @@
 | [0046-permutations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
-| 9 | [Shortest path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 01:43 pm |
-| 10 | [Dijkstra Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 09:38 pm |
