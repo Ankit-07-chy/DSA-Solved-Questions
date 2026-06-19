@@ -215,23 +215,25 @@
     "hard": 4
   },
   "syncedProblems": {
-    "GeeksForGeeks_Shortest_Path_in_Undirected_Graph": true
+    "GeeksForGeeks_Shortest_Path_in_Undirected_Graph": true,
+    "GeeksForGeeks_Shortest_path_in_Directed_Acyclic_Graph": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-19",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-06-19": 1
+    "2026-06-19": 2
   },
   "todayProblems": [
-    "Shortest Path in Undirected Graph"
+    "Shortest Path in Undirected Graph",
+    "Shortest path in Directed Acyclic Graph"
   ]
 }
