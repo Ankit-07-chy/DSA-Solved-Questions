@@ -6,7 +6,8 @@
 | 4 | [Longest Valid Word with All Prefixes](https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 12:41 pm |
 | 5 | [Count of distinct substrings](https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 01:55 pm |
 | 6 | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksForGeeks | Medium | 16 Jun 2026 | 08:31 pm |
-
+| 7 | [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | GeeksForGeeks | Medium | 18 Jun 2026 | 10:43 pm |
+| 8 | [Shortest Path in Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 11:45 am |
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -203,5 +204,4 @@
 | [0046-permutations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
-| 7 | [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | GeeksForGeeks | Medium | 18 Jun 2026 | 10:43 pm |
-| 8 | [Shortest Path in Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 11:45 am |
+
