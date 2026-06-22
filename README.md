@@ -147,6 +147,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -162,6 +163,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
@@ -217,5 +219,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
