@@ -1,3 +1,33 @@
+import heapq
+class Solution:
+    def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
+        if grid[0][0] == 1 or grid[-1][-1] == 1:
+            return -1
+        n = len(grid)
+
+        min_heap = []
+        # starting level = 1
+        heapq.heappush(min_heap,[1,0,0])
+        grid[0][0] = 1
+
+        while min_heap:
+            temp = heapq.heappop(min_heap)
+            curr_level = temp[0]; i = temp[1]; j = temp[2]
+            if i == n-1 and j == n-1:
+                return curr_level
+            indexes = [[i+1,j],[i+1,j+1],[i+1,j-1],[i,j+1],[i,j-1],[i-1,j],[i-1,j+1],[i-1,j-1]]
+            for index in indexes:
+                if 0<=index[0]<n and 0<=index[1]<n:
+                    if grid[index[0]][index[1]] == 0:
+                        grid[index[0]][index[1]] = 1
+                        heapq.heappush(min_heap,[curr_level+1,index[0],index[1]])
+
+
+        return -1
+
+
+# Using BFS
+'''
 from collections import deque
 class Solution:
     def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
@@ -26,3 +56,4 @@ class Solution:
                         queue.append([dist+1,index[0],index[1]])
 
         return -1 
+        '''
