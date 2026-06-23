@@ -146,6 +146,7 @@
 | [1301-reformat-department-table](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1301-reformat-department-table) |
 | [1480-movie-rating](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1480-movie-rating) |
 | [1541-top-travellers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1541-top-travellers) |
+| [1670-patients-with-a-condition](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1670-patients-with-a-condition) |
 | [2057-count-salary-categories](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2057-count-salary-categories) |
 ## Hash Table
 |  |
