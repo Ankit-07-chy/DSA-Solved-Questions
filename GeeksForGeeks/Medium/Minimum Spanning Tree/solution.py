@@ -1,3 +1,45 @@
+class Solution:
+    def spanningTree(self, V, edges):
+        
+        # sort the edges based on wts in asc order
+        edges.sort(key=lambda x:x[-1])
+        class DisJointSet:
+            def __init__(self,n):
+                self.n = n
+                self.parent = list(range(n+1))
+                self.rank = [0]*(n+1)
+            def find(self,x):
+                if x == self.parent[x]:
+                    return x 
+                self.parent[x] = self.find(self.parent[x])
+                return self.parent[x]
+            def union(self,x,y):
+                px = self.find(x)
+                py = self.find(y)
+                if px == py:
+                    return 
+                if self.rank[px]>self.rank[py]:
+                    self.parent[py] = px
+                elif self.rank[px]<self.rank[py]:
+                    self.parent[px] = py
+                else:
+                    self.parent[px] = py 
+                    self.rank[py] += 1
+        wts_sum = 0
+        dsu = DisJointSet(V)
+        for u,v,w in edges:
+            if dsu.find(u) == dsu.find(v):
+                continue
+            wts_sum += w 
+            dsu.union(u,v)
+        return wts_sum
+
+
+
+
+'''
+
+# this is using Prim's algorithm
 import heapq
 
 class Solution:
@@ -31,4 +73,4 @@ class Solution:
                         (edgeWt, neig, node)
                     )
 
-        return edge_wt_sum
+        return edge_wt_sum'''

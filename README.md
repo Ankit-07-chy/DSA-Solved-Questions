@@ -285,3 +285,4 @@
 <!---LeetCode Topics End-->
 | 13 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 11:01 pm |
 | 14 | [Disjoint set (Union-Find)](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | GeeksForGeeks | Easy | 26 Jun 2026 | 08:44 pm |
+| 15 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 26 Jun 2026 | 09:12 pm |

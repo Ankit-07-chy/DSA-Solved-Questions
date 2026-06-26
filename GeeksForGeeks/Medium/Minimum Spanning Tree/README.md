@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
 
 ## Solved On
-24 Jun 2026 at 11:01 pm
+26 Jun 2026 at 09:12 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1">Minimum Spanning Tree</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 18.6667px;">Given a weighted, undirected, and connected graph with V vertices and E edges, your task is to find the sum of the weights of the edges in the Minimum Spanning Tree (MST) of the graph. The graph is provided as a list of edges, where each edge is represented as [u, v, w], indicating an edge between vertex u and vertex v with edge weight w.</span></span></p>
 <pre><span style="font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>Input: </strong>V = 3, E = 3, Edges = [[0, 1, 5], [1, 2, 3], [0, 2, 1]]
