@@ -226,6 +226,7 @@
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
@@ -251,11 +252,13 @@
 | [0744-network-delay-time](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -269,6 +272,7 @@
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
