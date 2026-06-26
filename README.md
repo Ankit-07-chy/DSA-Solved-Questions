@@ -284,3 +284,4 @@
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
 | 13 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 11:01 pm |
+| 14 | [Disjoint set (Union-Find)](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | GeeksForGeeks | Easy | 26 Jun 2026 | 08:44 pm |
