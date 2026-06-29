@@ -42,6 +42,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
@@ -195,6 +196,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
