@@ -12,6 +12,9 @@
 | 10 | [Dijkstra Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 09:38 pm |
 | 11 | [Bellman-Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 08:11 pm |
 | 12 | [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 09:21 pm |
+| 13 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 11:01 pm |
+| 14 | [Disjoint set (Union-Find)](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | GeeksForGeeks | Easy | 26 Jun 2026 | 08:44 pm |
+| 15 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 26 Jun 2026 | 09:12 pm |
 
 
 <!---LeetCode Topics Start-->
@@ -310,6 +313,3 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
-| 13 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 11:01 pm |
-| 14 | [Disjoint set (Union-Find)](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | GeeksForGeeks | Easy | 26 Jun 2026 | 08:44 pm |
-| 15 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 26 Jun 2026 | 09:12 pm |
