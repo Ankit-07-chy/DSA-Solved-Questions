@@ -316,3 +316,4 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
 | 16 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksForGeeks | Basic | 29 Jun 2026 | 08:39 pm |
+| 17 | [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksForGeeks | Medium | 29 Jun 2026 | 08:50 pm |

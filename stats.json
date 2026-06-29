@@ -311,23 +311,25 @@
     "hard": 6
   },
   "syncedProblems": {
-    "GeeksForGeeks_Queue_Using_Array": true
+    "GeeksForGeeks_Queue_Using_Array": true,
+    "GeeksForGeeks_Implement_stack_using_array": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 1
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-29",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-06-29": 1
+    "2026-06-29": 2
   },
   "todayProblems": [
-    "Queue Using Array"
+    "Queue Using Array",
+    "Implement stack using array"
   ]
 }
