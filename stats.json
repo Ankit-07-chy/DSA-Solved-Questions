@@ -1,1 +1,341 @@
-{"leetcode":{"shas":{"README.md":{"":"f11a668d8dcad8256114bce554792c93e289385e"},"0287-find-the-duplicate-number":{"sha":"1ab0b5cac32269a761df9f32d26111874888642e","difficulty":"medium"},"0031-next-permutation":{"sha":"5a887cdb35891d63cc52a5269a677dca0893820a","difficulty":"medium"},"4057-total-waviness-of-numbers-in-range-i":{"sha":"c774e393adf54221ddb686b3775656901500ec81","difficulty":"medium"},"0053-maximum-subarray":{"sha":"91c08a959817dd7c7f521f47ea4c1d58a64d2c77","difficulty":"medium"},"1849-maximum-absolute-sum-of-any-subarray":{"sha":"262b3dffcaebbbbac83daf2037302bf9f5bafbaa","difficulty":"medium"},"2714-left-and-right-sum-differences":{"sha":"778a76c6362983010f57b7dd64df72f6374b55d4","difficulty":"easy"},"0967-minimum-falling-path-sum":{"sha":"5e922f7d597829ea9e9c14fbe7eb191a333c4750","difficulty":"medium"},"1224-minimum-falling-path-sum-ii":{"sha":"f17328e520817abe32375556d454f3c0cf688ac4","difficulty":"hard"},"0075-sort-colors":{"sha":"57202483d289a86f4b98af4a1ab2082e7a0e4e5f","difficulty":"medium"},"0182-duplicate-emails":{"sha":"085b2d0aac86962b01cd6c0b5b149a82c647257c","difficulty":"easy"},"2057-count-salary-categories":{"sha":"f080acfb88e6e4d39f243cd09b874b8c98bca780","difficulty":"medium"},"2306-create-binary-tree-from-descriptions":{"sha":"bd53bd6e985058b989bb9d0b1c7110144774af85","difficulty":"medium"},"0003-longest-substring-without-repeating-characters":{"sha":"063caf180cd0be1a963a431617d06e5c8d57c885","difficulty":"medium"},"2265-partition-array-according-to-given-pivot":{"sha":"bb19dd75a3016c97919d379f1ec8e18a2604895b","difficulty":"medium"},"0206-reverse-linked-list":{"sha":"7650ecb3efd19ea036b8ad64652a60f704c2e5cf","difficulty":"easy"},"0908-middle-of-the-linked-list":{"sha":"75c76cb323aac0fbb23fb0d297e73c113a4d967c","difficulty":"easy"},"0416-partition-equal-subset-sum":{"sha":"e7ae9a4f60bf743d808ace471abc6f6fb6ec86c1","difficulty":"medium"},"4005-maximum-total-subarray-value-i":{"sha":"34517dfde3632ba4d2cebb9c13e950d4f43369bd","difficulty":"medium"},"0610-triangle-judgement":{"sha":"fdff0a42f4f13b0bfb0e6eb986e8592aedf56262","difficulty":"easy"},"0176-second-highest-salary":{"sha":"403ae0a489e0bd98d29678bb98dd82bbf11797c7","difficulty":"medium"},"0237-delete-node-in-a-linked-list":{"sha":"23add77c504237b77c6b06c32f686d46559bb647","difficulty":"medium"},"0019-remove-nth-node-from-end-of-list":{"sha":"7a3b934a9fbebbafee14edf2944a2271fa149b39","difficulty":"medium"},"0208-implement-trie-prefix-tree":{"sha":"06c9be5698922604fa12abcca424d5810daa0438","difficulty":"medium"},"0183-customers-who-never-order":{"sha":"42fc67624043601e0f5536019534a92d11d285e7","difficulty":"easy"},"0577-employee-bonus":{"sha":"0ec887c004f20a71d8c09e5f7dd39e2ce3d7c8b4","difficulty":"easy"},"0627-swap-sex-of-employees":{"sha":"595696566ee27afebcd5014867a80fcfb00b4841","difficulty":"easy"},"1541-top-travellers":{"sha":"ca118fab3fb3d151c3728be504f53aa3269256a5","difficulty":"easy"},"0175-combine-two-tables":{"sha":"d1065aa4ed32f6bef8af507f652fce648022c98e","difficulty":"easy"},"0181-employees-earning-more-than-their-managers":{"sha":"634849c82fbd829b7c75d371eb3f308cbecf066a","difficulty":"easy"},"0586-customer-placing-the-largest-number-of-orders":{"sha":"7701d218636aa36de5ebf426f638691f6a7382b3","difficulty":"easy"},"0620-not-boring-movies":{"sha":"c12b91a7a5f26b61f65be6fa58bd3521214aff37","difficulty":"easy"},"0584-find-customer-referee":{"sha":"08bff5c9b4ffb4f91960c897ee22c6c3ee5408d6","difficulty":"easy"},"0596-classes-with-at-least-5-students":{"sha":"c9d67047556e75160ae01b9e6fe985d9dbf25944","difficulty":"easy"},"3842-number-of-ways-to-assign-edge-weights-ii":{"sha":"d781d9fa174cb138bebf2c23c6b30cc43dc788c7","difficulty":"hard"},"4216-weighted-word-mapping":{"sha":"a7aba5dcffb65f4e6ef965c3aef63621debe6705","difficulty":"easy"},"2236-maximum-twin-sum-of-a-linked-list":{"sha":"5b4875461dbf5698f31f7b8dd81aa3a673a5897f","difficulty":"medium"},"0607-sales-person":{"sha":"fa54f8cba99afe572d6d58a1325185d9d3486a69","difficulty":"easy"},"2216-delete-the-middle-node-of-a-linked-list":{"sha":"1a521827d5877d87a8a2f3f829731e52a67e8403","difficulty":"medium"},"1480-movie-rating":{"sha":"4b0a02de2d811fb1e53f4d3007982c594784dc4f","difficulty":"medium"},"3931-process-string-with-special-operations-i":{"sha":"1fb8db7af878a8e5c0966348ce180f98ba64d3f7","difficulty":"medium"},"0421-maximum-xor-of-two-numbers-in-an-array":{"sha":"b2e4c84f1bb1f64164f251675618e9fc16d501f7","difficulty":"medium"},"1826-maximum-xor-with-an-element-from-array":{"sha":"8a50ed19efa85352e2acd4e907f2abd8d006e3b3","difficulty":"hard"},"1301-reformat-department-table":{"sha":"7bf419dbdf26c9a5a714955a1bf0738d37fceff1","difficulty":"easy"},"3939-process-string-with-special-operations-ii":{"sha":"d66ab491bbbe4779884dabe0c9ae738e69ff5b0f","difficulty":"hard"},"1446-angle-between-hands-of-a-clock":{"sha":"ed050d436ac985d7f7277ae06840ad48109c838b","difficulty":"medium"},"0039-combination-sum":{"sha":"c730f29fa453abac0c7ffa7fe1b813a90f07db55","difficulty":"medium"},"0046-permutations":{"sha":"b6f6c6a093e10ba78a3ac8194391fb66c0f6ebdf","difficulty":"medium"},"0047-permutations-ii":{"sha":"9a56e0740f25554b37946e63e00f72bf919cda0d","difficulty":"medium"},"0184-department-highest-salary":{"sha":"1698d81aec5de82dcc348a7b120d72f63582623e","difficulty":"medium"},"0050-powx-n":{"sha":"fd393d2210c4e58655dd6b34e48aee376f1a431c","difficulty":"medium"},"1833-find-the-highest-altitude":{"sha":"6c4c50cc663d774d68346055dd99a1242ca25c76","difficulty":"easy"},"1968-maximum-building-height":{"sha":"21813a01d9abb486c83db972dfe9faf4a3c3ea88","difficulty":"hard"},"1961-maximum-ice-cream-bars":{"sha":"4355598c9ff3021f1fce7a708f67346676cb71cd","difficulty":"medium"},"4092-finish-time-of-tasks-i":{"sha":"370e81adca9c88be8d7f53ec1e4becd073dd0f36","difficulty":"medium"},"4342-create-grid-with-exactly-one-path":{"sha":"6cb6260ee148ffa755993b7630de0cee615a5400","difficulty":"easy"},"4318-valid-subarrays-with-matching-sum-digits-i":{"sha":"83f09322101b0e5c133b2a93ca589c73714b0d34","difficulty":"medium"},"4340-maximum-manhattan-distance-after-all-moves":{"sha":"2bfc6a377c5337748ec474ae6b7fc3865bc53340","difficulty":"medium"},"1297-maximum-number-of-balloons":{"sha":"0a11615b40a201decd144c1fa86fc7bec01333de","difficulty":"easy"},"1171-shortest-path-in-binary-matrix":{"sha":"ebc0ea6a3241d69ce532ec44032e2f815093c1fd","difficulty":"medium"},"1753-path-with-minimum-effort":{"sha":"179ac334960e77635185cb198fdfa999959f3e1e","difficulty":"medium"},"0803-cheapest-flights-within-k-stops":{"sha":"0c70e6a395db3f26a7e5360599f3767b96456356","difficulty":"medium"},"0744-network-delay-time":{"sha":"395dc46959cf4a0c3bcd2a84a335cbb4a535b68d","difficulty":"medium"},"1670-patients-with-a-condition":{"sha":"e9e43bc1e4bc7b728a238f383e3566d59af7766f","difficulty":"easy"},"0196-delete-duplicate-emails":{"sha":"cad6253de4a505bb993ce4d84a5787e54aeb2667","difficulty":"easy"},"1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance":{"sha":"88ed89da53d61b3218e3d4e664cc5e3e77e11790","difficulty":"medium"},"4074-count-subarrays-with-majority-element-i":{"sha":"cc7731d139f40b8cfa319954fcb0e876bf2325f3","difficulty":"medium"},"4075-count-subarrays-with-majority-element-ii":{"sha":"66e26305e68141082c45a66a83fb3c87ad1fd434","difficulty":"hard"},"0547-number-of-provinces":{"sha":"04b197e6f3e93074166301304c2cb6a5ba7483e9","difficulty":"medium"},"1442-number-of-operations-to-make-network-connected":{"sha":"eb3361c878815ecbec500df5c8532b546f8889e4","difficulty":"medium"},"1956-maximum-element-after-decreasing-and-rearranging":{"sha":"497e853fb348704c5c02144db0cd8ceb30eb65e1","difficulty":"medium"},"0721-accounts-merge":{"sha":"46e7638a7695d20a37cacfc7e7df95c6f12a3be9","difficulty":"medium"},"0232-implement-queue-using-stacks":{"sha":"bbe8dc6102619d80fad7cda948566eacc2859c98","difficulty":"easy"},"2099-number-of-strings-that-appear-as-substrings-in-word":{"sha":"15c357707d1729c6300a5aa3c62c347432f149a2","difficulty":"easy"},"3724-filter-occupied-intervals":{"sha":"174941a54f0c8f60be4427bda5b831534889e22f","difficulty":"medium"},"4348-maximum-total-sum-of-k-selected-elements":{"sha":"f4777d603a97072bb91848c9728470aa021eb069","difficulty":"medium"},"1460-number-of-substrings-containing-all-three-characters":{"sha":"6331408049e860b8d09ec00d941bc7dda74a6453","difficulty":"medium"},"1258-article-views-i":{"sha":"","difficulty":"easy"}},"solved":77,"easy":26,"medium":45,"hard":6}}
+{
+  "leetcode": {
+    "shas": {
+      "README.md": {
+        "": "f11a668d8dcad8256114bce554792c93e289385e"
+      },
+      "0287-find-the-duplicate-number": {
+        "sha": "1ab0b5cac32269a761df9f32d26111874888642e",
+        "difficulty": "medium"
+      },
+      "0031-next-permutation": {
+        "sha": "5a887cdb35891d63cc52a5269a677dca0893820a",
+        "difficulty": "medium"
+      },
+      "4057-total-waviness-of-numbers-in-range-i": {
+        "sha": "c774e393adf54221ddb686b3775656901500ec81",
+        "difficulty": "medium"
+      },
+      "0053-maximum-subarray": {
+        "sha": "91c08a959817dd7c7f521f47ea4c1d58a64d2c77",
+        "difficulty": "medium"
+      },
+      "1849-maximum-absolute-sum-of-any-subarray": {
+        "sha": "262b3dffcaebbbbac83daf2037302bf9f5bafbaa",
+        "difficulty": "medium"
+      },
+      "2714-left-and-right-sum-differences": {
+        "sha": "778a76c6362983010f57b7dd64df72f6374b55d4",
+        "difficulty": "easy"
+      },
+      "0967-minimum-falling-path-sum": {
+        "sha": "5e922f7d597829ea9e9c14fbe7eb191a333c4750",
+        "difficulty": "medium"
+      },
+      "1224-minimum-falling-path-sum-ii": {
+        "sha": "f17328e520817abe32375556d454f3c0cf688ac4",
+        "difficulty": "hard"
+      },
+      "0075-sort-colors": {
+        "sha": "57202483d289a86f4b98af4a1ab2082e7a0e4e5f",
+        "difficulty": "medium"
+      },
+      "0182-duplicate-emails": {
+        "sha": "085b2d0aac86962b01cd6c0b5b149a82c647257c",
+        "difficulty": "easy"
+      },
+      "2057-count-salary-categories": {
+        "sha": "f080acfb88e6e4d39f243cd09b874b8c98bca780",
+        "difficulty": "medium"
+      },
+      "2306-create-binary-tree-from-descriptions": {
+        "sha": "bd53bd6e985058b989bb9d0b1c7110144774af85",
+        "difficulty": "medium"
+      },
+      "0003-longest-substring-without-repeating-characters": {
+        "sha": "063caf180cd0be1a963a431617d06e5c8d57c885",
+        "difficulty": "medium"
+      },
+      "2265-partition-array-according-to-given-pivot": {
+        "sha": "bb19dd75a3016c97919d379f1ec8e18a2604895b",
+        "difficulty": "medium"
+      },
+      "0206-reverse-linked-list": {
+        "sha": "7650ecb3efd19ea036b8ad64652a60f704c2e5cf",
+        "difficulty": "easy"
+      },
+      "0908-middle-of-the-linked-list": {
+        "sha": "75c76cb323aac0fbb23fb0d297e73c113a4d967c",
+        "difficulty": "easy"
+      },
+      "0416-partition-equal-subset-sum": {
+        "sha": "e7ae9a4f60bf743d808ace471abc6f6fb6ec86c1",
+        "difficulty": "medium"
+      },
+      "4005-maximum-total-subarray-value-i": {
+        "sha": "34517dfde3632ba4d2cebb9c13e950d4f43369bd",
+        "difficulty": "medium"
+      },
+      "0610-triangle-judgement": {
+        "sha": "fdff0a42f4f13b0bfb0e6eb986e8592aedf56262",
+        "difficulty": "easy"
+      },
+      "0176-second-highest-salary": {
+        "sha": "403ae0a489e0bd98d29678bb98dd82bbf11797c7",
+        "difficulty": "medium"
+      },
+      "0237-delete-node-in-a-linked-list": {
+        "sha": "23add77c504237b77c6b06c32f686d46559bb647",
+        "difficulty": "medium"
+      },
+      "0019-remove-nth-node-from-end-of-list": {
+        "sha": "7a3b934a9fbebbafee14edf2944a2271fa149b39",
+        "difficulty": "medium"
+      },
+      "0208-implement-trie-prefix-tree": {
+        "sha": "06c9be5698922604fa12abcca424d5810daa0438",
+        "difficulty": "medium"
+      },
+      "0183-customers-who-never-order": {
+        "sha": "42fc67624043601e0f5536019534a92d11d285e7",
+        "difficulty": "easy"
+      },
+      "0577-employee-bonus": {
+        "sha": "0ec887c004f20a71d8c09e5f7dd39e2ce3d7c8b4",
+        "difficulty": "easy"
+      },
+      "0627-swap-sex-of-employees": {
+        "sha": "595696566ee27afebcd5014867a80fcfb00b4841",
+        "difficulty": "easy"
+      },
+      "1541-top-travellers": {
+        "sha": "ca118fab3fb3d151c3728be504f53aa3269256a5",
+        "difficulty": "easy"
+      },
+      "0175-combine-two-tables": {
+        "sha": "d1065aa4ed32f6bef8af507f652fce648022c98e",
+        "difficulty": "easy"
+      },
+      "0181-employees-earning-more-than-their-managers": {
+        "sha": "634849c82fbd829b7c75d371eb3f308cbecf066a",
+        "difficulty": "easy"
+      },
+      "0586-customer-placing-the-largest-number-of-orders": {
+        "sha": "7701d218636aa36de5ebf426f638691f6a7382b3",
+        "difficulty": "easy"
+      },
+      "0620-not-boring-movies": {
+        "sha": "c12b91a7a5f26b61f65be6fa58bd3521214aff37",
+        "difficulty": "easy"
+      },
+      "0584-find-customer-referee": {
+        "sha": "08bff5c9b4ffb4f91960c897ee22c6c3ee5408d6",
+        "difficulty": "easy"
+      },
+      "0596-classes-with-at-least-5-students": {
+        "sha": "c9d67047556e75160ae01b9e6fe985d9dbf25944",
+        "difficulty": "easy"
+      },
+      "3842-number-of-ways-to-assign-edge-weights-ii": {
+        "sha": "d781d9fa174cb138bebf2c23c6b30cc43dc788c7",
+        "difficulty": "hard"
+      },
+      "4216-weighted-word-mapping": {
+        "sha": "a7aba5dcffb65f4e6ef965c3aef63621debe6705",
+        "difficulty": "easy"
+      },
+      "2236-maximum-twin-sum-of-a-linked-list": {
+        "sha": "5b4875461dbf5698f31f7b8dd81aa3a673a5897f",
+        "difficulty": "medium"
+      },
+      "0607-sales-person": {
+        "sha": "fa54f8cba99afe572d6d58a1325185d9d3486a69",
+        "difficulty": "easy"
+      },
+      "2216-delete-the-middle-node-of-a-linked-list": {
+        "sha": "1a521827d5877d87a8a2f3f829731e52a67e8403",
+        "difficulty": "medium"
+      },
+      "1480-movie-rating": {
+        "sha": "4b0a02de2d811fb1e53f4d3007982c594784dc4f",
+        "difficulty": "medium"
+      },
+      "3931-process-string-with-special-operations-i": {
+        "sha": "1fb8db7af878a8e5c0966348ce180f98ba64d3f7",
+        "difficulty": "medium"
+      },
+      "0421-maximum-xor-of-two-numbers-in-an-array": {
+        "sha": "b2e4c84f1bb1f64164f251675618e9fc16d501f7",
+        "difficulty": "medium"
+      },
+      "1826-maximum-xor-with-an-element-from-array": {
+        "sha": "8a50ed19efa85352e2acd4e907f2abd8d006e3b3",
+        "difficulty": "hard"
+      },
+      "1301-reformat-department-table": {
+        "sha": "7bf419dbdf26c9a5a714955a1bf0738d37fceff1",
+        "difficulty": "easy"
+      },
+      "3939-process-string-with-special-operations-ii": {
+        "sha": "d66ab491bbbe4779884dabe0c9ae738e69ff5b0f",
+        "difficulty": "hard"
+      },
+      "1446-angle-between-hands-of-a-clock": {
+        "sha": "ed050d436ac985d7f7277ae06840ad48109c838b",
+        "difficulty": "medium"
+      },
+      "0039-combination-sum": {
+        "sha": "c730f29fa453abac0c7ffa7fe1b813a90f07db55",
+        "difficulty": "medium"
+      },
+      "0046-permutations": {
+        "sha": "b6f6c6a093e10ba78a3ac8194391fb66c0f6ebdf",
+        "difficulty": "medium"
+      },
+      "0047-permutations-ii": {
+        "sha": "9a56e0740f25554b37946e63e00f72bf919cda0d",
+        "difficulty": "medium"
+      },
+      "0184-department-highest-salary": {
+        "sha": "1698d81aec5de82dcc348a7b120d72f63582623e",
+        "difficulty": "medium"
+      },
+      "0050-powx-n": {
+        "sha": "fd393d2210c4e58655dd6b34e48aee376f1a431c",
+        "difficulty": "medium"
+      },
+      "1833-find-the-highest-altitude": {
+        "sha": "6c4c50cc663d774d68346055dd99a1242ca25c76",
+        "difficulty": "easy"
+      },
+      "1968-maximum-building-height": {
+        "sha": "21813a01d9abb486c83db972dfe9faf4a3c3ea88",
+        "difficulty": "hard"
+      },
+      "1961-maximum-ice-cream-bars": {
+        "sha": "4355598c9ff3021f1fce7a708f67346676cb71cd",
+        "difficulty": "medium"
+      },
+      "4092-finish-time-of-tasks-i": {
+        "sha": "370e81adca9c88be8d7f53ec1e4becd073dd0f36",
+        "difficulty": "medium"
+      },
+      "4342-create-grid-with-exactly-one-path": {
+        "sha": "6cb6260ee148ffa755993b7630de0cee615a5400",
+        "difficulty": "easy"
+      },
+      "4318-valid-subarrays-with-matching-sum-digits-i": {
+        "sha": "83f09322101b0e5c133b2a93ca589c73714b0d34",
+        "difficulty": "medium"
+      },
+      "4340-maximum-manhattan-distance-after-all-moves": {
+        "sha": "2bfc6a377c5337748ec474ae6b7fc3865bc53340",
+        "difficulty": "medium"
+      },
+      "1297-maximum-number-of-balloons": {
+        "sha": "0a11615b40a201decd144c1fa86fc7bec01333de",
+        "difficulty": "easy"
+      },
+      "1171-shortest-path-in-binary-matrix": {
+        "sha": "ebc0ea6a3241d69ce532ec44032e2f815093c1fd",
+        "difficulty": "medium"
+      },
+      "1753-path-with-minimum-effort": {
+        "sha": "179ac334960e77635185cb198fdfa999959f3e1e",
+        "difficulty": "medium"
+      },
+      "0803-cheapest-flights-within-k-stops": {
+        "sha": "0c70e6a395db3f26a7e5360599f3767b96456356",
+        "difficulty": "medium"
+      },
+      "0744-network-delay-time": {
+        "sha": "395dc46959cf4a0c3bcd2a84a335cbb4a535b68d",
+        "difficulty": "medium"
+      },
+      "1670-patients-with-a-condition": {
+        "sha": "e9e43bc1e4bc7b728a238f383e3566d59af7766f",
+        "difficulty": "easy"
+      },
+      "0196-delete-duplicate-emails": {
+        "sha": "cad6253de4a505bb993ce4d84a5787e54aeb2667",
+        "difficulty": "easy"
+      },
+      "1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance": {
+        "sha": "88ed89da53d61b3218e3d4e664cc5e3e77e11790",
+        "difficulty": "medium"
+      },
+      "4074-count-subarrays-with-majority-element-i": {
+        "sha": "cc7731d139f40b8cfa319954fcb0e876bf2325f3",
+        "difficulty": "medium"
+      },
+      "4075-count-subarrays-with-majority-element-ii": {
+        "sha": "66e26305e68141082c45a66a83fb3c87ad1fd434",
+        "difficulty": "hard"
+      },
+      "0547-number-of-provinces": {
+        "sha": "04b197e6f3e93074166301304c2cb6a5ba7483e9",
+        "difficulty": "medium"
+      },
+      "1442-number-of-operations-to-make-network-connected": {
+        "sha": "eb3361c878815ecbec500df5c8532b546f8889e4",
+        "difficulty": "medium"
+      },
+      "1956-maximum-element-after-decreasing-and-rearranging": {
+        "sha": "497e853fb348704c5c02144db0cd8ceb30eb65e1",
+        "difficulty": "medium"
+      },
+      "0721-accounts-merge": {
+        "sha": "46e7638a7695d20a37cacfc7e7df95c6f12a3be9",
+        "difficulty": "medium"
+      },
+      "0232-implement-queue-using-stacks": {
+        "sha": "bbe8dc6102619d80fad7cda948566eacc2859c98",
+        "difficulty": "easy"
+      },
+      "2099-number-of-strings-that-appear-as-substrings-in-word": {
+        "sha": "15c357707d1729c6300a5aa3c62c347432f149a2",
+        "difficulty": "easy"
+      },
+      "3724-filter-occupied-intervals": {
+        "sha": "174941a54f0c8f60be4427bda5b831534889e22f",
+        "difficulty": "medium"
+      },
+      "4348-maximum-total-sum-of-k-selected-elements": {
+        "sha": "f4777d603a97072bb91848c9728470aa021eb069",
+        "difficulty": "medium"
+      },
+      "1460-number-of-substrings-containing-all-three-characters": {
+        "sha": "6331408049e860b8d09ec00d941bc7dda74a6453",
+        "difficulty": "medium"
+      },
+      "1258-article-views-i": {
+        "sha": "",
+        "difficulty": "easy"
+      }
+    },
+    "solved": 77,
+    "easy": 26,
+    "medium": 45,
+    "hard": 6
+  },
+  "syncedProblems": {
+    "Manual_Article_View_ii": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "todayProblems": [
+    "Article View ii"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-30",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-06-30": 1
+  }
+}

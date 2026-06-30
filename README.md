@@ -322,3 +322,4 @@
 | 16 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksForGeeks | Basic | 29 Jun 2026 | 08:39 pm |
 | 17 | [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksForGeeks | Medium | 29 Jun 2026 | 08:50 pm |
 | 18 | [Count Substrings with a, b and c](./GeeksForGeeks/Medium/Count%20Substrings%20with%20a%2C%20b%20and%20c) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | 30 Jun 2026 | 08:27 am |
+| 19 | [Article View ii](./Manual/Easy/Article%20View%20ii) | [Manual](https://leetcode.com/problems/article-views-ii/) | Easy | 30 Jun 2026 | 10:49 am |
