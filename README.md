@@ -176,6 +176,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -196,6 +197,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3939-process-string-with-special-operations-ii) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
 | ------- |
