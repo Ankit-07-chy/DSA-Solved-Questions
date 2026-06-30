@@ -324,3 +324,4 @@
 | 18 | [Count Substrings with a, b and c](./GeeksForGeeks/Medium/Count%20Substrings%20with%20a%2C%20b%20and%20c) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | 30 Jun 2026 | 08:27 am |
 | 19 | [Article View ii](./Manual/Easy/Article%20View%20ii) | [Manual](https://leetcode.com/problems/article-views-ii/) | Easy | 30 Jun 2026 | 10:49 am |
 | 20 | [Stack using Linked List](./GeeksForGeeks/Easy/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Easy | 30 Jun 2026 | 11:50 am |
+| 21 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 30 Jun 2026 | 12:01 pm |

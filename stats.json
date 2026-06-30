@@ -320,24 +320,26 @@
   },
   "syncedProblems": {
     "Manual_Article_View_ii": true,
-    "GeeksForGeeks_Stack_using_Linked_List": true
+    "GeeksForGeeks_Stack_using_Linked_List": true,
+    "GeeksForGeeks_Queue_using_Linked_List": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "todayProblems": [
     "Article View ii",
-    "Stack using Linked List"
+    "Stack using Linked List",
+    "Queue using Linked List"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-06-30": 2
+    "2026-06-30": 3
   }
 }
