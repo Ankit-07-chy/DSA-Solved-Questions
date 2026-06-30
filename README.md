@@ -15,6 +15,12 @@
 | 13 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 24 Jun 2026 | 11:01 pm |
 | 14 | [Disjoint set (Union-Find)](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | GeeksForGeeks | Easy | 26 Jun 2026 | 08:44 pm |
 | 15 | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksForGeeks | Medium | 26 Jun 2026 | 09:12 pm |
+| 16 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksForGeeks | Basic | 29 Jun 2026 | 08:39 pm |
+| 17 | [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksForGeeks | Medium | 29 Jun 2026 | 08:50 pm |
+| 18 | [Count Substrings with a, b and c](./GeeksForGeeks/Medium/Count%20Substrings%20with%20a%2C%20b%20and%20c) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | 30 Jun 2026 | 08:27 am |
+| 19 | [Article View ii](./Manual/Easy/Article%20View%20ii) | [Manual](https://leetcode.com/problems/article-views-ii/) | Easy | 30 Jun 2026 | 10:49 am |
+| 20 | [Stack using Linked List](./GeeksForGeeks/Easy/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Easy | 30 Jun 2026 | 11:50 am |
+| 21 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 30 Jun 2026 | 12:01 pm |
 
 
 <!---LeetCode Topics Start-->
@@ -319,9 +325,3 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
-| 16 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksForGeeks | Basic | 29 Jun 2026 | 08:39 pm |
-| 17 | [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksForGeeks | Medium | 29 Jun 2026 | 08:50 pm |
-| 18 | [Count Substrings with a, b and c](./GeeksForGeeks/Medium/Count%20Substrings%20with%20a%2C%20b%20and%20c) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | 30 Jun 2026 | 08:27 am |
-| 19 | [Article View ii](./Manual/Easy/Article%20View%20ii) | [Manual](https://leetcode.com/problems/article-views-ii/) | Easy | 30 Jun 2026 | 10:49 am |
-| 20 | [Stack using Linked List](./GeeksForGeeks/Easy/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Easy | 30 Jun 2026 | 11:50 am |
-| 21 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 30 Jun 2026 | 12:01 pm |
