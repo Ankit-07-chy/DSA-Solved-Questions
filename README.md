@@ -163,6 +163,7 @@
 | [0610-triangle-judgement](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0627-swap-sex-of-employees) |
+| [1258-article-views-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1301-reformat-department-table) |
 | [1480-movie-rating](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1480-movie-rating) |
 | [1541-top-travellers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1541-top-travellers) |
