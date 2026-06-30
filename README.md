@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
@@ -260,6 +261,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
