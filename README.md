@@ -334,3 +334,4 @@
 | 23 | [Postfix to Infix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:01 pm |
 | 24 | [Prefix to Infix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:11 pm |
 | 25 | [Postfix to Prefix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Prefix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | Medium | 01 Jul 2026 | 04:18 pm |
+| 26 | [Prefix to Postfix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Postfix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | Medium | 01 Jul 2026 | 04:24 pm |
