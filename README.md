@@ -331,3 +331,4 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
 | 22 | [Infix To Prefix Notation](./GeeksForGeeks/Medium/Infix%20To%20Prefix%20Notation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1) | Medium | 01 Jul 2026 | 03:39 pm |
+| 23 | [Postfix to Infix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:01 pm |
