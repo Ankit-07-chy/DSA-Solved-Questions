@@ -21,6 +21,11 @@
 | 19 | [Article View ii](./Manual/Easy/Article%20View%20ii) | [Manual](https://leetcode.com/problems/article-views-ii/) | Easy | 30 Jun 2026 | 10:49 am |
 | 20 | [Stack using Linked List](./GeeksForGeeks/Easy/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Easy | 30 Jun 2026 | 11:50 am |
 | 21 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 30 Jun 2026 | 12:01 pm |
+| 22 | [Infix To Prefix Notation](./GeeksForGeeks/Medium/Infix%20To%20Prefix%20Notation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1) | Medium | 01 Jul 2026 | 03:39 pm |
+| 23 | [Postfix to Infix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:01 pm |
+| 24 | [Prefix to Infix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:11 pm |
+| 25 | [Postfix to Prefix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Prefix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | Medium | 01 Jul 2026 | 04:18 pm |
+| 26 | [Prefix to Postfix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Postfix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | Medium | 01 Jul 2026 | 04:24 pm |
 
 
 <!---LeetCode Topics Start-->
@@ -338,8 +343,3 @@
 | [0225-implement-stack-using-queues](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
-| 22 | [Infix To Prefix Notation](./GeeksForGeeks/Medium/Infix%20To%20Prefix%20Notation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1) | Medium | 01 Jul 2026 | 03:39 pm |
-| 23 | [Postfix to Infix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:01 pm |
-| 24 | [Prefix to Infix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:11 pm |
-| 25 | [Postfix to Prefix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Prefix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | Medium | 01 Jul 2026 | 04:18 pm |
-| 26 | [Prefix to Postfix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Postfix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | Medium | 01 Jul 2026 | 04:24 pm |
