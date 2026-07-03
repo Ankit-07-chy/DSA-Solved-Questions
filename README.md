@@ -60,6 +60,7 @@
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4005-maximum-total-subarray-value-i) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -131,6 +133,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -311,6 +314,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
@@ -320,6 +324,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -327,6 +332,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 ## Segment Tree
 |  |
 | ------- |
@@ -342,4 +348,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Topological Sort
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
