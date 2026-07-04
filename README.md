@@ -35,6 +35,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -128,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -277,6 +280,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
@@ -364,6 +368,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
