@@ -271,6 +271,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
@@ -304,6 +305,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
@@ -312,6 +314,7 @@
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
