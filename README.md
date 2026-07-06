@@ -48,6 +48,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1002-maximum-width-ramp) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1222-remove-covered-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
@@ -108,6 +109,7 @@
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
+| [1222-remove-covered-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1222-remove-covered-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
