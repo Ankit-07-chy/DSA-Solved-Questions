@@ -402,3 +402,4 @@
 <!---LeetCode Topics End-->
 | 27 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 04 Jul 2026 | 07:45 am |
 | 28 | [Next Smaller Element](./GeeksForGeeks/Medium/Next%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | 04 Jul 2026 | 07:49 am |
+| 29 | [The Celebrity Problem](./GeeksForGeeks/Medium/The%20Celebrity%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | 06 Jul 2026 | 05:49 pm |
