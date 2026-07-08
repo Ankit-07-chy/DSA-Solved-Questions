@@ -26,7 +26,9 @@
 | 24 | [Prefix to Infix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Infix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | Medium | 01 Jul 2026 | 04:11 pm |
 | 25 | [Postfix to Prefix Conversion](./GeeksForGeeks/Medium/Postfix%20to%20Prefix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | Medium | 01 Jul 2026 | 04:18 pm |
 | 26 | [Prefix to Postfix Conversion](./GeeksForGeeks/Medium/Prefix%20to%20Postfix%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | Medium | 01 Jul 2026 | 04:24 pm |
-
+| 27 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 04 Jul 2026 | 07:45 am |
+| 28 | [Next Smaller Element](./GeeksForGeeks/Medium/Next%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | 04 Jul 2026 | 07:49 am |
+| 29 | [The Celebrity Problem](./GeeksForGeeks/Medium/The%20Celebrity%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | 06 Jul 2026 | 05:49 pm |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -410,6 +412,4 @@
 | ------- |
 | [0937-online-stock-span](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
-| 27 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 04 Jul 2026 | 07:45 am |
-| 28 | [Next Smaller Element](./GeeksForGeeks/Medium/Next%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | 04 Jul 2026 | 07:49 am |
-| 29 | [The Celebrity Problem](./GeeksForGeeks/Medium/The%20Celebrity%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | 06 Jul 2026 | 05:49 pm |
+
