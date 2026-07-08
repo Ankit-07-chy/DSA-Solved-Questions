@@ -420,4 +420,4 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
-
+| 30 | [Sum of Query II](./GeeksForGeeks/Medium/Sum%20of%20Query%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | Medium | 08 Jul 2026 | 03:19 pm |
