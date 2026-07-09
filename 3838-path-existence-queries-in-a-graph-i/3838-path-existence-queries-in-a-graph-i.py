@@ -26,6 +26,7 @@ class Solution:
         dsu = DSU(n)
         result = []
 
+        # here is the actual use of the given thing that array is sorted
         for i in range(n-1):
             if nums[i+1]-nums[i]<=maxDiff:
                 dsu.union(i+1,i)
