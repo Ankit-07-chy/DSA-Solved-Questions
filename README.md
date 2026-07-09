@@ -73,6 +73,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -104,6 +105,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -225,6 +227,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -349,6 +352,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -368,6 +372,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
