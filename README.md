@@ -60,6 +60,7 @@
 | [1222-remove-covered-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1234-number-of-paths-with-max-score) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1833-find-the-highest-altitude) |
@@ -128,6 +129,7 @@
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [1222-remove-covered-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
@@ -230,6 +232,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
