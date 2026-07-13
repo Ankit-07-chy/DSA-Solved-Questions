@@ -1,1 +1,141 @@
-{"leetcode":{"shas":{"README.md":{"":"2f0680539f8bf0c50a90a7c18790a6661db4660e"},"3558-find-a-safe-walk-through-a-grid":{"sha":"2ebef6ca8c5cb590482a4c118b481fcc13370930","difficulty":"medium"},"3919-network-recovery-pathways":{"sha":"3bfbe819006f0dd49364ff008aa070a2eececa55","difficulty":"hard"},"1002-maximum-width-ramp":{"sha":"93b56cf7fcbf2f67621eb4c69a2c5e277dacf95c","difficulty":"medium"},"0503-next-greater-element-ii":{"sha":"e2f7e3836c403b4ca958895d8b58c8eba2008ae3","difficulty":"medium"},"2582-minimum-score-of-a-path-between-two-cities":{"sha":"53f602c06be8d6e0d496d50f9adf181f3dc9b342","difficulty":"medium"},"0042-trapping-rain-water":{"sha":"eac00fbd6d76229c797e55fd7605c749abe4a2ac","difficulty":"hard"},"4341-maximum-valid-pair-sum":{"sha":"ea393f67e653a7e0dffc58b5aea6a113c33a9505","difficulty":"medium"},"4354-unique-middle-element":{"sha":"2706fa29c235534eadebaaf5f280fa3d6cf62c5b","difficulty":"easy"},"1234-number-of-paths-with-max-score":{"sha":"a56f63be20a0ffe06748be386c0eea417c0985fc","difficulty":"hard"},"1203-print-in-order":{"sha":"4a1fad4dfc89afeb25e8c82f4349588d1b0be73e","difficulty":"easy"},"1222-remove-covered-intervals":{"sha":"838740fcbde12b0c68b5464c8772e65ce1512959","difficulty":"medium"},"0943-sum-of-subarray-minimums":{"sha":"625034412712ccab360bbdcbbce93af727463451","difficulty":"medium"},"0239-sliding-window-maximum":{"sha":"eb304a9da01c5c97653f69189b7f3ffbe0204cdb","difficulty":"hard"},"0937-online-stock-span":{"sha":"0e4a3686cbd04b286d2f7d358fb18d2c6cf31596","difficulty":"medium"},"4135-concatenate-non-zero-digits-and-multiply-by-sum-i":{"sha":"53fe144af637776cca56f49984b75d95362311e9","difficulty":"easy"},"0162-find-peak-element":{"sha":"a2d68470ef59a63e63c9e734414df96db6329884","difficulty":"medium"},"0882-peak-index-in-a-mountain-array":{"sha":"e3c7f42f167b0473d4e6f8dfea4499656cd5cd5b","difficulty":"medium"},"0540-single-element-in-a-sorted-array":{"sha":"52e3b34bd90dd13d882eaf7047af8bbd78139764","difficulty":"medium"},"4136-concatenate-non-zero-digits-and-multiply-by-sum-ii":{"sha":"65c011c48bb988327320070818b0406e36125b72","difficulty":"medium"},"0307-range-sum-query-mutable":{"sha":"07fe23ba500ec17c971b1379ed7585316f8b390a","difficulty":"medium"},"0303-range-sum-query-immutable":{"sha":"0e678ce7c310255e24731ddcbd08535594b64de1","difficulty":"easy"},"3838-path-existence-queries-in-a-graph-i":{"sha":"e171c35511ca2455a7abbc87ab3c46929e425839","difficulty":"medium"},"3852-path-existence-queries-in-a-graph-ii":{"sha":"edb25377c37a73d8a398c49ab584342832bc26fb","difficulty":"hard"},"1256-rank-transform-of-an-array":{"sha":"46ee4e488c163f264a6d74b0dc64997e6055c929","difficulty":"easy"},"1212-sequential-digits":{"sha":"9a4eaa94c04638cc359ad69147b4710f736784d3","difficulty":"medium"},"1296-kth-ancestor-of-a-tree-node":{"sha":"37be7daafe439532b6b186c0caf0b21d8d6608d5","difficulty":"hard"},"0236-lowest-common-ancestor-of-a-binary-tree":{"sha":"","difficulty":"medium"}},"solved":27,"easy":5,"medium":16,"hard":6}}
+{
+  "leetcode": {
+    "shas": {
+      "README.md": {
+        "": "2f0680539f8bf0c50a90a7c18790a6661db4660e"
+      },
+      "3558-find-a-safe-walk-through-a-grid": {
+        "sha": "2ebef6ca8c5cb590482a4c118b481fcc13370930",
+        "difficulty": "medium"
+      },
+      "3919-network-recovery-pathways": {
+        "sha": "3bfbe819006f0dd49364ff008aa070a2eececa55",
+        "difficulty": "hard"
+      },
+      "1002-maximum-width-ramp": {
+        "sha": "93b56cf7fcbf2f67621eb4c69a2c5e277dacf95c",
+        "difficulty": "medium"
+      },
+      "0503-next-greater-element-ii": {
+        "sha": "e2f7e3836c403b4ca958895d8b58c8eba2008ae3",
+        "difficulty": "medium"
+      },
+      "2582-minimum-score-of-a-path-between-two-cities": {
+        "sha": "53f602c06be8d6e0d496d50f9adf181f3dc9b342",
+        "difficulty": "medium"
+      },
+      "0042-trapping-rain-water": {
+        "sha": "eac00fbd6d76229c797e55fd7605c749abe4a2ac",
+        "difficulty": "hard"
+      },
+      "4341-maximum-valid-pair-sum": {
+        "sha": "ea393f67e653a7e0dffc58b5aea6a113c33a9505",
+        "difficulty": "medium"
+      },
+      "4354-unique-middle-element": {
+        "sha": "2706fa29c235534eadebaaf5f280fa3d6cf62c5b",
+        "difficulty": "easy"
+      },
+      "1234-number-of-paths-with-max-score": {
+        "sha": "a56f63be20a0ffe06748be386c0eea417c0985fc",
+        "difficulty": "hard"
+      },
+      "1203-print-in-order": {
+        "sha": "4a1fad4dfc89afeb25e8c82f4349588d1b0be73e",
+        "difficulty": "easy"
+      },
+      "1222-remove-covered-intervals": {
+        "sha": "838740fcbde12b0c68b5464c8772e65ce1512959",
+        "difficulty": "medium"
+      },
+      "0943-sum-of-subarray-minimums": {
+        "sha": "625034412712ccab360bbdcbbce93af727463451",
+        "difficulty": "medium"
+      },
+      "0239-sliding-window-maximum": {
+        "sha": "eb304a9da01c5c97653f69189b7f3ffbe0204cdb",
+        "difficulty": "hard"
+      },
+      "0937-online-stock-span": {
+        "sha": "0e4a3686cbd04b286d2f7d358fb18d2c6cf31596",
+        "difficulty": "medium"
+      },
+      "4135-concatenate-non-zero-digits-and-multiply-by-sum-i": {
+        "sha": "53fe144af637776cca56f49984b75d95362311e9",
+        "difficulty": "easy"
+      },
+      "0162-find-peak-element": {
+        "sha": "a2d68470ef59a63e63c9e734414df96db6329884",
+        "difficulty": "medium"
+      },
+      "0882-peak-index-in-a-mountain-array": {
+        "sha": "e3c7f42f167b0473d4e6f8dfea4499656cd5cd5b",
+        "difficulty": "medium"
+      },
+      "0540-single-element-in-a-sorted-array": {
+        "sha": "52e3b34bd90dd13d882eaf7047af8bbd78139764",
+        "difficulty": "medium"
+      },
+      "4136-concatenate-non-zero-digits-and-multiply-by-sum-ii": {
+        "sha": "65c011c48bb988327320070818b0406e36125b72",
+        "difficulty": "medium"
+      },
+      "0307-range-sum-query-mutable": {
+        "sha": "07fe23ba500ec17c971b1379ed7585316f8b390a",
+        "difficulty": "medium"
+      },
+      "0303-range-sum-query-immutable": {
+        "sha": "0e678ce7c310255e24731ddcbd08535594b64de1",
+        "difficulty": "easy"
+      },
+      "3838-path-existence-queries-in-a-graph-i": {
+        "sha": "e171c35511ca2455a7abbc87ab3c46929e425839",
+        "difficulty": "medium"
+      },
+      "3852-path-existence-queries-in-a-graph-ii": {
+        "sha": "edb25377c37a73d8a398c49ab584342832bc26fb",
+        "difficulty": "hard"
+      },
+      "1256-rank-transform-of-an-array": {
+        "sha": "46ee4e488c163f264a6d74b0dc64997e6055c929",
+        "difficulty": "easy"
+      },
+      "1212-sequential-digits": {
+        "sha": "9a4eaa94c04638cc359ad69147b4710f736784d3",
+        "difficulty": "medium"
+      },
+      "1296-kth-ancestor-of-a-tree-node": {
+        "sha": "37be7daafe439532b6b186c0caf0b21d8d6608d5",
+        "difficulty": "hard"
+      },
+      "0236-lowest-common-ancestor-of-a-binary-tree": {
+        "sha": "",
+        "difficulty": "medium"
+      }
+    },
+    "solved": 27,
+    "easy": 5,
+    "medium": 16,
+    "hard": 6
+  },
+  "syncedProblems": {
+    "GeeksForGeeks_Square_Root": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "todayProblems": [
+    "Square Root"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-13",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-07-13": 1
+  }
+}

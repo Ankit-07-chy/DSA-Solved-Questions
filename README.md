@@ -453,3 +453,4 @@
 | 30 | [Sum of Query II](./GeeksForGeeks/Medium/Sum%20of%20Query%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | Medium | 08 Jul 2026 | 03:19 pm |
 | 31 | [Range Minimum Query](./GeeksForGeeks/Medium/Range%20Minimum%20Query) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-minimum-query/1) | Medium | 08 Jul 2026 | 03:53 pm |
 | 32 | [Range Sum Queries](./GeeksForGeeks/Medium/Range%20Sum%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-sum-queries2353/1) | Medium | 09 Jul 2026 | 05:46 pm |
+| 33 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 13 Jul 2026 | 08:22 pm |
