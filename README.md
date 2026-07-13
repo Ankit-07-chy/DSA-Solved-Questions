@@ -247,12 +247,14 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -315,6 +317,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0744-network-delay-time) |
