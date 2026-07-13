@@ -174,6 +174,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
