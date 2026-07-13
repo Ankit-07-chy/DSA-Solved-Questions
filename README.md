@@ -107,6 +107,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -165,6 +167,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1234-number-of-paths-with-max-score) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -244,6 +247,7 @@
 ## Tree
 |  |
 | ------- |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -301,6 +305,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0937-online-stock-span) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Trie
 |  |
 | ------- |
@@ -314,6 +319,7 @@
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -351,6 +357,7 @@
 | [0744-network-delay-time](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
