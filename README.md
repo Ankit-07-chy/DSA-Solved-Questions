@@ -76,6 +76,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -156,6 +157,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -174,6 +176,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
@@ -457,6 +460,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
 | 30 | [Sum of Query II](./GeeksForGeeks/Medium/Sum%20of%20Query%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | Medium | 08 Jul 2026 | 03:19 pm |
 | 31 | [Range Minimum Query](./GeeksForGeeks/Medium/Range%20Minimum%20Query) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-minimum-query/1) | Medium | 08 Jul 2026 | 03:53 pm |
