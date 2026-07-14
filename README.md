@@ -37,6 +37,9 @@
 | 35 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 14 Jul 2026 | 05:52 pm |
 | 36 | [Delete Head of Doubly Linked List](./GeeksForGeeks/Easy/Delete%20Head%20of%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1) | Easy | 14 Jul 2026 | 06:36 pm |
 | 37 | [Delete Last Node of a Doubly Linked List](./Manual/Easy/Delete%20Last%20Node%20of%20a%20Doubly%20Linked%20List) | [Manual](https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469?leftPanelTabValue=PROBLEM) | Easy | 14 Jul 2026 | 06:50 pm |
+| 38 | [Insertion at doubly linked list](./GeeksForGeeks/Easy/Insertion%20at%20doubly%20linked%20list) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 14 Jul 2026 | 08:46 pm |
+| 39 | [Insert At The Front of a Doubly Linked List](./Manual/Easy/Insert%20At%20The%20Front%20of%20a%20Doubly%20Linked%20List) | [Manual](https://www.naukri.com/code360/problems/insert-at-the-front-of-a-doubly-linked-list_9697366?leftPanelTabValue=PROBLEM) | Easy | 14 Jul 2026 | 08:50 pm |
+| 40 | [Smallest Non-Zero Number](./GeeksForGeeks/Medium/Smallest%20Non-Zero%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-smallest-non-zero-number4510/1) | Medium | 14 Jul 2026 | 10:27 pm |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -481,6 +484,4 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
-| 38 | [Insertion at doubly linked list](./GeeksForGeeks/Easy/Insertion%20at%20doubly%20linked%20list) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 14 Jul 2026 | 08:46 pm |
-| 39 | [Insert At The Front of a Doubly Linked List](./Manual/Easy/Insert%20At%20The%20Front%20of%20a%20Doubly%20Linked%20List) | [Manual](https://www.naukri.com/code360/problems/insert-at-the-front-of-a-doubly-linked-list_9697366?leftPanelTabValue=PROBLEM) | Easy | 14 Jul 2026 | 08:50 pm |
-| 40 | [Smallest Non-Zero Number](./GeeksForGeeks/Medium/Smallest%20Non-Zero%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-smallest-non-zero-number4510/1) | Medium | 14 Jul 2026 | 10:27 pm |
+
