@@ -70,6 +70,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
@@ -154,6 +155,7 @@
 | [0050-powx-n](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0050-powx-n) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -451,6 +453,10 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
 | 30 | [Sum of Query II](./GeeksForGeeks/Medium/Sum%20of%20Query%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | Medium | 08 Jul 2026 | 03:19 pm |
 | 31 | [Range Minimum Query](./GeeksForGeeks/Medium/Range%20Minimum%20Query) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-minimum-query/1) | Medium | 08 Jul 2026 | 03:53 pm |
