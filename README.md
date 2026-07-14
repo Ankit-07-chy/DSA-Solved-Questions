@@ -62,6 +62,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1833-find-the-highest-altitude) |
@@ -112,6 +113,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
