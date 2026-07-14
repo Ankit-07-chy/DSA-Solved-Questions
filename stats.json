@@ -150,11 +150,12 @@
     "GeeksForGeeks_Reverse_a_Doubly_Linked_List": true,
     "GeeksForGeeks_Delete_Head_of_Doubly_Linked_List": true,
     "Manual_Delete_Last_Node_of_a_Doubly_Linked_List": true,
-    "GeeksForGeeks_Insertion_at_doubly_linked_list": true
+    "GeeksForGeeks_Insertion_at_doubly_linked_list": true,
+    "Manual_Insert_At_The_Front_of_a_Doubly_Linked_List": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -163,13 +164,14 @@
     "Reverse a Doubly Linked List",
     "Delete Head of Doubly Linked List",
     "Delete Last Node of a Doubly Linked List",
-    "Insertion at doubly linked list"
+    "Insertion at doubly linked list",
+    "Insert At The Front of a Doubly Linked List"
   ],
   "currentStreak": 1,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-14",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-14": 4
+    "2026-07-14": 5
   }
 }
