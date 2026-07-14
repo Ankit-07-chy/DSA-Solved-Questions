@@ -481,3 +481,4 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
+| 38 | [Insertion at doubly linked list](./GeeksForGeeks/Easy/Insertion%20at%20doubly%20linked%20list) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 14 Jul 2026 | 08:46 pm |
