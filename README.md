@@ -29,6 +29,14 @@
 | 27 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 04 Jul 2026 | 07:45 am |
 | 28 | [Next Smaller Element](./GeeksForGeeks/Medium/Next%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | 04 Jul 2026 | 07:49 am |
 | 29 | [The Celebrity Problem](./GeeksForGeeks/Medium/The%20Celebrity%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | 06 Jul 2026 | 05:49 pm |
+| 30 | [Sum of Query II](./GeeksForGeeks/Medium/Sum%20of%20Query%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | Medium | 08 Jul 2026 | 03:19 pm |
+| 31 | [Range Minimum Query](./GeeksForGeeks/Medium/Range%20Minimum%20Query) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-minimum-query/1) | Medium | 08 Jul 2026 | 03:53 pm |
+| 32 | [Range Sum Queries](./GeeksForGeeks/Medium/Range%20Sum%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-sum-queries2353/1) | Medium | 09 Jul 2026 | 05:46 pm |
+| 33 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 13 Jul 2026 | 08:22 pm |
+| 34 | [Find nth root of m](./GeeksForGeeks/Medium/Find%20nth%20root%20of%20m) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 13 Jul 2026 | 08:29 pm |
+| 35 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 14 Jul 2026 | 05:52 pm |
+| 36 | [Delete Head of Doubly Linked List](./GeeksForGeeks/Easy/Delete%20Head%20of%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1) | Easy | 14 Jul 2026 | 06:36 pm |
+| 37 | [Delete Last Node of a Doubly Linked List](./Manual/Easy/Delete%20Last%20Node%20of%20a%20Doubly%20Linked%20List) | [Manual](https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469?leftPanelTabValue=PROBLEM) | Easy | 14 Jul 2026 | 06:50 pm |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -473,11 +481,3 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
-| 30 | [Sum of Query II](./GeeksForGeeks/Medium/Sum%20of%20Query%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | Medium | 08 Jul 2026 | 03:19 pm |
-| 31 | [Range Minimum Query](./GeeksForGeeks/Medium/Range%20Minimum%20Query) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-minimum-query/1) | Medium | 08 Jul 2026 | 03:53 pm |
-| 32 | [Range Sum Queries](./GeeksForGeeks/Medium/Range%20Sum%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-sum-queries2353/1) | Medium | 09 Jul 2026 | 05:46 pm |
-| 33 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 13 Jul 2026 | 08:22 pm |
-| 34 | [Find nth root of m](./GeeksForGeeks/Medium/Find%20nth%20root%20of%20m) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 13 Jul 2026 | 08:29 pm |
-| 35 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 14 Jul 2026 | 05:52 pm |
-| 36 | [Delete Head of Doubly Linked List](./GeeksForGeeks/Easy/Delete%20Head%20of%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1) | Easy | 14 Jul 2026 | 06:36 pm |
-| 37 | [Delete Last Node of a Doubly Linked List](./Manual/Easy/Delete%20Last%20Node%20of%20a%20Doubly%20Linked%20List) | [Manual](https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469?leftPanelTabValue=PROBLEM) | Easy | 14 Jul 2026 | 06:50 pm |
