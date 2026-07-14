@@ -479,3 +479,4 @@
 | 33 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 13 Jul 2026 | 08:22 pm |
 | 34 | [Find nth root of m](./GeeksForGeeks/Medium/Find%20nth%20root%20of%20m) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 13 Jul 2026 | 08:29 pm |
 | 35 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 14 Jul 2026 | 05:52 pm |
+| 36 | [Delete Head of Doubly Linked List](./GeeksForGeeks/Easy/Delete%20Head%20of%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1) | Easy | 14 Jul 2026 | 06:36 pm |
