@@ -151,12 +151,13 @@
     "GeeksForGeeks_Delete_Head_of_Doubly_Linked_List": true,
     "Manual_Delete_Last_Node_of_a_Doubly_Linked_List": true,
     "GeeksForGeeks_Insertion_at_doubly_linked_list": true,
-    "Manual_Insert_At_The_Front_of_a_Doubly_Linked_List": true
+    "Manual_Insert_At_The_Front_of_a_Doubly_Linked_List": true,
+    "GeeksForGeeks_Smallest_Non-Zero_Number": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
@@ -165,13 +166,14 @@
     "Delete Head of Doubly Linked List",
     "Delete Last Node of a Doubly Linked List",
     "Insertion at doubly linked list",
-    "Insert At The Front of a Doubly Linked List"
+    "Insert At The Front of a Doubly Linked List",
+    "Smallest Non-Zero Number"
   ],
   "currentStreak": 1,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-07-14",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-14": 5
+    "2026-07-14": 6
   }
 }
