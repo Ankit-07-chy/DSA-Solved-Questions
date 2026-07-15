@@ -177,6 +177,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -479,6 +480,7 @@
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
