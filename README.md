@@ -76,6 +76,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1833-find-the-highest-altitude) |
@@ -129,6 +130,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
