@@ -102,6 +102,7 @@
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 | [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -483,6 +488,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
