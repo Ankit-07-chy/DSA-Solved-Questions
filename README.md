@@ -496,3 +496,4 @@
 <!---LeetCode Topics End-->
 | 41 | [Longest Increasing Subsequence](./GeeksForGeeks/Medium/Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | 15 Jul 2026 | 11:05 am |
 | 42 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 16 Jul 2026 | 07:39 pm |
+| 43 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 16 Jul 2026 | 08:47 pm |
