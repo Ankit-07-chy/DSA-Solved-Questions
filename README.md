@@ -495,3 +495,4 @@
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
 | 41 | [Longest Increasing Subsequence](./GeeksForGeeks/Medium/Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | 15 Jul 2026 | 11:05 am |
+| 42 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 16 Jul 2026 | 07:39 pm |
