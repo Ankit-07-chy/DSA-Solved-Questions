@@ -55,6 +55,7 @@
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -236,6 +239,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
