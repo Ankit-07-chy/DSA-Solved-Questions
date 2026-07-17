@@ -504,3 +504,4 @@
 | 43 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 16 Jul 2026 | 08:47 pm |
 | 44 | [The Painter's Partition Problem-II](./GeeksForGeeks/Hard/The%20Painter's%20Partition%20Problem-II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | Hard | 16 Jul 2026 | 09:48 pm |
 | 45 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 17 Jul 2026 | 11:02 am |
+| 46 | [Row with Max 1s in Rowwise Sorted](./GeeksForGeeks/Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | Medium | 17 Jul 2026 | 11:22 am |
