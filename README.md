@@ -40,6 +40,14 @@
 | 38 | [Insertion at doubly linked list](./GeeksForGeeks/Easy/Insertion%20at%20doubly%20linked%20list) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 14 Jul 2026 | 08:46 pm |
 | 39 | [Insert At The Front of a Doubly Linked List](./Manual/Easy/Insert%20At%20The%20Front%20of%20a%20Doubly%20Linked%20List) | [Manual](https://www.naukri.com/code360/problems/insert-at-the-front-of-a-doubly-linked-list_9697366?leftPanelTabValue=PROBLEM) | Easy | 14 Jul 2026 | 08:50 pm |
 | 40 | [Smallest Non-Zero Number](./GeeksForGeeks/Medium/Smallest%20Non-Zero%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-smallest-non-zero-number4510/1) | Medium | 14 Jul 2026 | 10:27 pm |
+| 41 | [Longest Increasing Subsequence](./GeeksForGeeks/Medium/Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | 15 Jul 2026 | 11:05 am |
+| 42 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 16 Jul 2026 | 07:39 pm |
+| 43 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 16 Jul 2026 | 08:47 pm |
+| 44 | [The Painter's Partition Problem-II](./GeeksForGeeks/Hard/The%20Painter's%20Partition%20Problem-II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | Hard | 16 Jul 2026 | 09:48 pm |
+| 45 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 17 Jul 2026 | 11:02 am |
+| 46 | [Row with Max 1s in Rowwise Sorted](./GeeksForGeeks/Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | Medium | 17 Jul 2026 | 11:22 am |
+| 47 | [Search in a Row-Column Sorted](./GeeksForGeeks/Easy/Search%20in%20a%20Row-Column%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Easy | 17 Jul 2026 | 12:10 pm |
+| 48 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 07:58 pm |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -506,11 +514,4 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
-| 41 | [Longest Increasing Subsequence](./GeeksForGeeks/Medium/Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | 15 Jul 2026 | 11:05 am |
-| 42 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 16 Jul 2026 | 07:39 pm |
-| 43 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 16 Jul 2026 | 08:47 pm |
-| 44 | [The Painter's Partition Problem-II](./GeeksForGeeks/Hard/The%20Painter's%20Partition%20Problem-II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | Hard | 16 Jul 2026 | 09:48 pm |
-| 45 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 17 Jul 2026 | 11:02 am |
-| 46 | [Row with Max 1s in Rowwise Sorted](./GeeksForGeeks/Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | Medium | 17 Jul 2026 | 11:22 am |
-| 47 | [Search in a Row-Column Sorted](./GeeksForGeeks/Easy/Search%20in%20a%20Row-Column%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Easy | 17 Jul 2026 | 12:10 pm |
-| 48 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 07:58 pm |
+
