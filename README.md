@@ -503,3 +503,4 @@
 | 42 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 16 Jul 2026 | 07:39 pm |
 | 43 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 16 Jul 2026 | 08:47 pm |
 | 44 | [The Painter's Partition Problem-II](./GeeksForGeeks/Hard/The%20Painter's%20Partition%20Problem-II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | Hard | 16 Jul 2026 | 09:48 pm |
+| 45 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 17 Jul 2026 | 11:02 am |
