@@ -102,6 +102,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -148,6 +149,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2047-find-a-peak-element-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
@@ -195,6 +197,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -243,6 +246,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -293,6 +297,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -404,6 +409,7 @@
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
@@ -506,6 +512,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -513,5 +520,9 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
 
