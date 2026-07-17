@@ -513,3 +513,4 @@
 | 45 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 17 Jul 2026 | 11:02 am |
 | 46 | [Row with Max 1s in Rowwise Sorted](./GeeksForGeeks/Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | Medium | 17 Jul 2026 | 11:22 am |
 | 47 | [Search in a Row-Column Sorted](./GeeksForGeeks/Easy/Search%20in%20a%20Row-Column%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Easy | 17 Jul 2026 | 12:10 pm |
+| 48 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 07:58 pm |
