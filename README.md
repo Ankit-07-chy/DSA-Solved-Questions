@@ -85,6 +85,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0410-split-array-largest-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -333,6 +335,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
 | ------- |
