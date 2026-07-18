@@ -78,6 +78,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1222-remove-covered-intervals) |
@@ -143,6 +144,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -245,6 +247,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
@@ -334,6 +337,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
