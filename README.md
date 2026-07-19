@@ -75,6 +75,7 @@
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1002-maximum-width-ramp) |
@@ -299,6 +300,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0721-accounts-merge) |
+| [0940-fruit-into-baskets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
