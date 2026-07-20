@@ -25,7 +25,7 @@ class Solution:
                 heap[s[left]] -= 1
                 if heap[s[left]] == 0:
                     heap.pop(s[left])
-                maxfreq = findMaxFreq(heap)
+                # maxfreq = findMaxFreq(heap)
                 left += 1
 
             if (right-left+1)-maxfreq<=k:
