@@ -242,6 +242,7 @@
 | ------- |
 | [1212-sequential-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
@@ -350,6 +351,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
