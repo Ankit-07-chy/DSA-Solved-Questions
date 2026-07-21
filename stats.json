@@ -223,23 +223,25 @@
     "hard": 10
   },
   "syncedProblems": {
-    "Manual_Longest_Substring_with_At_Most_K_Distinct_Characters": true
+    "Manual_Longest_Substring_with_At_Most_K_Distinct_Characters": true,
+    "GeeksForGeeks_Min_Heap_implementation": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Longest Substring with At Most K Distinct Characters"
+    "Longest Substring with At Most K Distinct Characters",
+    "Min Heap implementation"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-21",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-21": 1
+    "2026-07-21": 2
   }
 }

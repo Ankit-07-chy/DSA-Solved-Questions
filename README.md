@@ -566,3 +566,4 @@
 | [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
 | 49 | [Longest Substring with At Most K Distinct Characters](./Manual/Medium/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters) | [Manual](https://www.naukri.com/code360/problems/distinct-characters_2221410?leftPanelTabValue=PROBLEM) | Medium | 21 Jul 2026 | 12:18 pm |
+| 50 | [Min Heap implementation](./GeeksForGeeks/Easy/Min%20Heap%20implementation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/min-heap-implementation/1) | Easy | 21 Jul 2026 | 04:40 pm |
