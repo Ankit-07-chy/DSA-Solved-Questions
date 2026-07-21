@@ -1,5 +1,27 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
+        def findSum(arr,goal):
+            if goal <0:
+                return 0
+            left = 0; right = 0
+            count = 0
+            curr_sum = 0
+            for right in range(0,len(nums)):
+                curr_sum += arr[right]
+                while curr_sum > goal:
+                    if left >= len(nums):
+                        break
+                    curr_sum -= arr[left]
+                    left += 1
+
+                if curr_sum <= goal:
+                    count += right-left+1
+            return count
+
+        return findSum(nums,goal)-findSum(nums,goal-1)
+'''
+class Solution:
+    def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
         prefixSum = {0:1}
         n = len(nums)
         curr_sum = 0
@@ -14,4 +36,4 @@ class Solution:
             elif curr_sum not in prefixSum:
                 prefixSum[curr_sum] = 1
 
-        return count
+        return count'''
