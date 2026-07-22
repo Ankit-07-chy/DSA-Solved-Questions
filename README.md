@@ -120,6 +120,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -169,6 +170,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3919-network-recovery-pathways) |
@@ -374,6 +376,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3939-process-string-with-special-operations-ii) |
@@ -530,6 +533,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
