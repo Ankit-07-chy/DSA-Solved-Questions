@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1)
 
 ## Solved On
-22 Jul 2026 at 07:14 pm
+22 Jul 2026 at 09:00 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1">Maximum Meetings in One Room</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given two arrays <strong>s[]</strong> and <strong>f[]</strong>,&nbsp;where <strong>s[i]</strong> and <strong>f[i]</strong> denote the start time and finish time of the ith meeting, respectively. There is only one meeting room. A meeting can be scheduled only if its start time is strictly greater than the finish time of the previously selected meeting.</span></p>
 <p><span style="font-size: 18px;">Find the maximum number of meetings that can be scheduled in the room such that no two selected meetings overlap. Return the indices (1-based) of the selected meetings in sorted (increasing) order.</span></p>
