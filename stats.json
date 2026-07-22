@@ -247,23 +247,25 @@
     "hard": 10
   },
   "syncedProblems": {
-    "Manual_Job_Sequencing_Problem": true
+    "Manual_Job_Sequencing_Problem": true,
+    "GeeksForGeeks_Maximum_Meetings_in_One_Room": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Job Sequencing Problem"
+    "Job Sequencing Problem",
+    "Maximum Meetings in One Room"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-22",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-22": 1
+    "2026-07-22": 2
   }
 }

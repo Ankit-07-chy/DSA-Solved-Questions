@@ -1,22 +1,20 @@
+import math
+inf = math.inf
 class Solution:
-    def maxMeetings(self, s: list[int], f: list[int]) -> list[int]:
+    def maxMeetings(self, s, f):
         # code here
-        start = s; end = f
-        
-        lists = []
-        n = len(start)
-        for i in range(n):
-            curr = [start[i],end[i],i+1]
-            lists.append(curr)
-        lists.sort(key = lambda x: x[1])
-
-        count = 0
-        index = []
-        freeTime = -1
-        for i in range(n):
-            curr = lists[i]
-            if curr[0]>freeTime:
-                freeTime = curr[1]
-                count += 1
-                index.append(curr[-1])
-        return sorted(index)
+        list1 = []
+        for idx in range(len(s)):
+            list1.append([idx,s[idx],f[idx]])
+            
+        list1.sort(key=lambda x:x[-1])
+        ans = []
+        # print(list1)
+        prev_start = -1; prev_end = -inf
+        for original_idx, start, end in list1:
+            # 3. Check for non-overlap
+            if start > prev_end:
+                ans.append(original_idx + 1) # Convert to 1-based index
+                prev_end = end 
+        return sorted(ans)
+            
