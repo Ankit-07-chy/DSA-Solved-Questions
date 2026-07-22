@@ -62,6 +62,7 @@
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0239-sliding-window-maximum) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0455-assign-cookies) |
