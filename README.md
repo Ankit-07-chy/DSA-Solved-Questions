@@ -57,6 +57,7 @@
 | [0031-next-permutation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
@@ -173,6 +174,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0410-split-array-largest-sum) |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0410-split-array-largest-sum) |
