@@ -267,12 +267,13 @@
     "GeeksForGeeks_Parenthesis_Checker": true,
     "LeetCode_Valid_Parenthesis_String": true,
     "LeetCode_Candy": true,
-    "LeetCode_Check_if_Grid_Satisfies_Conditions": true
+    "LeetCode_Check_if_Grid_Satisfies_Conditions": true,
+    "GeeksForGeeks_Fractional_Knapsack": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 2,
+    "medium": 3,
     "hard": 1,
     "basic": 0
   },
@@ -281,13 +282,14 @@
     "Parenthesis Checker",
     "Valid Parenthesis String",
     "Candy",
-    "Check if Grid Satisfies Conditions"
+    "Check if Grid Satisfies Conditions",
+    "Fractional Knapsack"
   ],
   "currentStreak": 1,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-07-23",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-23": 5
+    "2026-07-23": 6
   }
 }

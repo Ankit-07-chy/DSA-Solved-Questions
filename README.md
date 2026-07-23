@@ -604,3 +604,4 @@
 | 56 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 23 Jul 2026 | 03:14 pm |
 | 57 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 04:49 pm |
 | 58 | [Check if Grid Satisfies Conditions](./LeetCode/Easy/Check%20if%20Grid%20Satisfies%20Conditions) | [LeetCode](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | Easy | 23 Jul 2026 | 05:28 pm |
+| 59 | [Fractional Knapsack](./GeeksForGeeks/Medium/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | 23 Jul 2026 | 06:18 pm |
