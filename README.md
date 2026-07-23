@@ -599,3 +599,4 @@
 | 51 | [Kth Largest](./GeeksForGeeks/Medium/Kth%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element5034/1) | Medium | 21 Jul 2026 | 05:17 pm |
 | 52 | [Shortest Job first](./GeeksForGeeks/Medium/Shortest%20Job%20first) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | 22 Jul 2026 | 05:34 am |
 | 53 | [Job Sequencing Problem](./Manual/Medium/Job%20Sequencing%20Problem) | [Manual](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 22 Jul 2026 | 06:23 pm |
+| 54 | [Minimum Platforms](./GeeksForGeeks/Medium/Minimum%20Platforms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | 23 Jul 2026 | 01:41 pm |
