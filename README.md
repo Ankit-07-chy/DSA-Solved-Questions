@@ -602,3 +602,4 @@
 | 54 | [Minimum Platforms](./GeeksForGeeks/Medium/Minimum%20Platforms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | 23 Jul 2026 | 01:41 pm |
 | 55 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 23 Jul 2026 | 02:50 pm |
 | 56 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 23 Jul 2026 | 03:14 pm |
+| 57 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 04:49 pm |
