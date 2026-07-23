@@ -263,23 +263,25 @@
     "hard": 11
   },
   "syncedProblems": {
-    "GeeksForGeeks_Minimum_Platforms": true
+    "GeeksForGeeks_Minimum_Platforms": true,
+    "GeeksForGeeks_Parenthesis_Checker": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Minimum Platforms"
+    "Minimum Platforms",
+    "Parenthesis Checker"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-23",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-23": 1
+    "2026-07-23": 2
   }
 }
