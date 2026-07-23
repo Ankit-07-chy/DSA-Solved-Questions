@@ -601,3 +601,4 @@
 | 53 | [Job Sequencing Problem](./Manual/Medium/Job%20Sequencing%20Problem) | [Manual](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 22 Jul 2026 | 06:23 pm |
 | 54 | [Minimum Platforms](./GeeksForGeeks/Medium/Minimum%20Platforms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | 23 Jul 2026 | 01:41 pm |
 | 55 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 23 Jul 2026 | 02:50 pm |
+| 56 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 23 Jul 2026 | 03:14 pm |
