@@ -606,3 +606,4 @@
 | 58 | [Check if Grid Satisfies Conditions](./LeetCode/Easy/Check%20if%20Grid%20Satisfies%20Conditions) | [LeetCode](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | Easy | 23 Jul 2026 | 05:28 pm |
 | 59 | [Fractional Knapsack](./GeeksForGeeks/Medium/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | 23 Jul 2026 | 06:18 pm |
 | 60 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 23 Jul 2026 | 08:46 pm |
+| 61 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 24 Jul 2026 | 09:25 pm |
