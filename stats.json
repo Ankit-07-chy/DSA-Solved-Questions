@@ -270,24 +270,26 @@
     "LeetCode_Check_if_Grid_Satisfies_Conditions": true,
     "GeeksForGeeks_Fractional_Knapsack": true,
     "LeetCode_Number_of_Unique_XOR_Triplets_I": true,
-    "LeetCode_Number_of_Unique_XOR_Triplets_II": true
+    "LeetCode_Number_of_Unique_XOR_Triplets_II": true,
+    "LeetCode_Maximum_Product_of_Two_Digits": true
   },
-  "totalSolved": 8,
+  "totalSolved": 9,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 5,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Number of Unique XOR Triplets II"
+    "Maximum Product of Two Digits"
   ],
-  "currentStreak": 2,
+  "currentStreak": 3,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-24",
-  "maxStreak": 2,
+  "lastSyncDate": "2026-07-25",
+  "maxStreak": 3,
   "activityHistory": {
     "2026-07-23": 7,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   }
 }
