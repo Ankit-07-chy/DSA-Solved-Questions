@@ -271,25 +271,27 @@
     "GeeksForGeeks_Fractional_Knapsack": true,
     "LeetCode_Number_of_Unique_XOR_Triplets_I": true,
     "LeetCode_Number_of_Unique_XOR_Triplets_II": true,
-    "LeetCode_Maximum_Product_of_Two_Digits": true
+    "LeetCode_Maximum_Product_of_Two_Digits": true,
+    "LeetCode_Maximum_Product_of_Three_Numbers": true
   },
-  "totalSolved": 9,
+  "totalSolved": 10,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 5,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Maximum Product of Two Digits"
+    "Maximum Product of Three Numbers"
   ],
-  "currentStreak": 3,
+  "currentStreak": 4,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-25",
-  "maxStreak": 3,
+  "lastSyncDate": "2026-07-26",
+  "maxStreak": 4,
   "activityHistory": {
     "2026-07-23": 7,
     "2026-07-24": 1,
-    "2026-07-25": 1
+    "2026-07-25": 1,
+    "2026-07-26": 1
   }
 }

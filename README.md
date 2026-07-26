@@ -608,3 +608,4 @@
 | 60 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 23 Jul 2026 | 08:46 pm |
 | 61 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 24 Jul 2026 | 09:25 pm |
 | 62 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 10:33 am |
+| 63 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 26 Jul 2026 | 09:37 pm |
