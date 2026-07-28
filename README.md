@@ -614,3 +614,4 @@
 | 66 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 27 Jul 2026 | 10:52 pm |
 | 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
 | 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
+| 69 | [Consistent Data](./Manual/Medium/Consistent%20Data) | [Manual](https://www.oahelper.in/problems/MjAyfDA/consistent-data) | Medium | 28 Jul 2026 | 07:51 pm |
