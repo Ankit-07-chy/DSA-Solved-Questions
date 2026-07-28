@@ -48,7 +48,28 @@
 | 46 | [Row with Max 1s in Rowwise Sorted](./GeeksForGeeks/Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | Medium | 17 Jul 2026 | 11:22 am |
 | 47 | [Search in a Row-Column Sorted](./GeeksForGeeks/Easy/Search%20in%20a%20Row-Column%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Easy | 17 Jul 2026 | 12:10 pm |
 | 48 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 07:58 pm |
-
+| 49 | [Longest Substring with At Most K Distinct Characters](./Manual/Medium/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters) | [Manual](https://www.naukri.com/code360/problems/distinct-characters_2221410?leftPanelTabValue=PROBLEM) | Medium | 21 Jul 2026 | 12:18 pm |
+| 50 | [Min Heap implementation](./GeeksForGeeks/Easy/Min%20Heap%20implementation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/min-heap-implementation/1) | Easy | 21 Jul 2026 | 04:40 pm |
+| 51 | [Kth Largest](./GeeksForGeeks/Medium/Kth%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element5034/1) | Medium | 21 Jul 2026 | 05:17 pm |
+| 52 | [Shortest Job first](./GeeksForGeeks/Medium/Shortest%20Job%20first) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | 22 Jul 2026 | 05:34 am |
+| 53 | [Job Sequencing Problem](./Manual/Medium/Job%20Sequencing%20Problem) | [Manual](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 22 Jul 2026 | 06:23 pm |
+| 54 | [Minimum Platforms](./GeeksForGeeks/Medium/Minimum%20Platforms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | 23 Jul 2026 | 01:41 pm |
+| 55 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 23 Jul 2026 | 02:50 pm |
+| 56 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 23 Jul 2026 | 03:14 pm |
+| 57 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 04:49 pm |
+| 58 | [Check if Grid Satisfies Conditions](./LeetCode/Easy/Check%20if%20Grid%20Satisfies%20Conditions) | [LeetCode](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | Easy | 23 Jul 2026 | 05:28 pm |
+| 59 | [Fractional Knapsack](./GeeksForGeeks/Medium/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | 23 Jul 2026 | 06:18 pm |
+| 60 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 23 Jul 2026 | 08:46 pm |
+| 61 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 24 Jul 2026 | 09:25 pm |
+| 62 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 10:33 am |
+| 63 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 26 Jul 2026 | 09:37 pm |
+| 64 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 27 Jul 2026 | 05:11 pm |
+| 65 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 27 Jul 2026 | 06:16 pm |
+| 66 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 27 Jul 2026 | 10:52 pm |
+| 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
+| 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
+| 69 | [Consistent Data](./Manual/Medium/Consistent%20Data) | [Manual](https://www.oahelper.in/problems/MjAyfDA/consistent-data) | Medium | 28 Jul 2026 | 07:51 pm |
+| 70 | [**Breakfast — Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -594,25 +615,4 @@
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
-| 49 | [Longest Substring with At Most K Distinct Characters](./Manual/Medium/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters) | [Manual](https://www.naukri.com/code360/problems/distinct-characters_2221410?leftPanelTabValue=PROBLEM) | Medium | 21 Jul 2026 | 12:18 pm |
-| 50 | [Min Heap implementation](./GeeksForGeeks/Easy/Min%20Heap%20implementation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/min-heap-implementation/1) | Easy | 21 Jul 2026 | 04:40 pm |
-| 51 | [Kth Largest](./GeeksForGeeks/Medium/Kth%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element5034/1) | Medium | 21 Jul 2026 | 05:17 pm |
-| 52 | [Shortest Job first](./GeeksForGeeks/Medium/Shortest%20Job%20first) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | 22 Jul 2026 | 05:34 am |
-| 53 | [Job Sequencing Problem](./Manual/Medium/Job%20Sequencing%20Problem) | [Manual](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 22 Jul 2026 | 06:23 pm |
-| 54 | [Minimum Platforms](./GeeksForGeeks/Medium/Minimum%20Platforms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | 23 Jul 2026 | 01:41 pm |
-| 55 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 23 Jul 2026 | 02:50 pm |
-| 56 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 23 Jul 2026 | 03:14 pm |
-| 57 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 04:49 pm |
-| 58 | [Check if Grid Satisfies Conditions](./LeetCode/Easy/Check%20if%20Grid%20Satisfies%20Conditions) | [LeetCode](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | Easy | 23 Jul 2026 | 05:28 pm |
-| 59 | [Fractional Knapsack](./GeeksForGeeks/Medium/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | 23 Jul 2026 | 06:18 pm |
-| 60 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 23 Jul 2026 | 08:46 pm |
-| 61 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 24 Jul 2026 | 09:25 pm |
-| 62 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 10:33 am |
-| 63 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 26 Jul 2026 | 09:37 pm |
-| 64 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 27 Jul 2026 | 05:11 pm |
-| 65 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 27 Jul 2026 | 06:16 pm |
-| 66 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 27 Jul 2026 | 10:52 pm |
-| 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
-| 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
-| 69 | [Consistent Data](./Manual/Medium/Consistent%20Data) | [Manual](https://www.oahelper.in/problems/MjAyfDA/consistent-data) | Medium | 28 Jul 2026 | 07:51 pm |
-| 70 | [**Breakfast — Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
+
