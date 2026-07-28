@@ -279,12 +279,13 @@
     "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
     "LeetCode_Shortest_Palindrome": true,
     "Manual_Consistent_Data": true,
-    "Manual_**Breakfast_—_Google_SDE_summer_intern2027_4july_OA_Question**": true
+    "Manual_**Breakfast_â_Google_SDE_summer_intern2027_4july_OA_Question**": true,
+    "LeetCode_Domino_and_Tromino_Tiling": true
   },
-  "totalSolved": 17,
+  "totalSolved": 18,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 10,
+    "medium": 11,
     "hard": 2,
     "basic": 0
   },
@@ -292,10 +293,11 @@
     "Smallest Palindromic Rearrangement I",
     "Shortest Palindrome",
     "Consistent Data",
-    "**Breakfast — Google_SDE summer intern2027_4july OA Question**"
+    "**Breakfast â Google_SDE summer intern2027_4july OA Question**",
+    "Domino and Tromino Tiling"
   ],
   "currentStreak": 6,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-28",
   "maxStreak": 6,
   "activityHistory": {
@@ -304,6 +306,6 @@
     "2026-07-25": 1,
     "2026-07-26": 1,
     "2026-07-27": 3,
-    "2026-07-28": 4
+    "2026-07-28": 5
   }
 }
