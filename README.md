@@ -615,3 +615,4 @@
 | 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
 | 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
 | 69 | [Consistent Data](./Manual/Medium/Consistent%20Data) | [Manual](https://www.oahelper.in/problems/MjAyfDA/consistent-data) | Medium | 28 Jul 2026 | 07:51 pm |
+| 70 | [**Breakfast — Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
