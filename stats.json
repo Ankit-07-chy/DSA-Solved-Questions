@@ -276,20 +276,22 @@
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
     "LeetCode_String_to_Integer_(atoi)": true,
     "LeetCode_Count_Good_Numbers": true,
-    "LeetCode_Smallest_Palindromic_Rearrangement_I": true
+    "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
+    "LeetCode_Shortest_Palindrome": true
   },
-  "totalSolved": 14,
+  "totalSolved": 15,
   "difficultyCounts": {
     "easy": 5,
     "medium": 8,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Smallest Palindromic Rearrangement I"
+    "Smallest Palindromic Rearrangement I",
+    "Shortest Palindrome"
   ],
   "currentStreak": 6,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-28",
   "maxStreak": 6,
   "activityHistory": {
@@ -298,6 +300,6 @@
     "2026-07-25": 1,
     "2026-07-26": 1,
     "2026-07-27": 3,
-    "2026-07-28": 1
+    "2026-07-28": 2
   }
 }

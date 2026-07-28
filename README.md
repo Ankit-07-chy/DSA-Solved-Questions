@@ -613,3 +613,4 @@
 | 65 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 27 Jul 2026 | 06:16 pm |
 | 66 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 27 Jul 2026 | 10:52 pm |
 | 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
+| 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
