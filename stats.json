@@ -279,33 +279,31 @@
     "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
     "LeetCode_Shortest_Palindrome": true,
     "Manual_Consistent_Data": true,
-    "Manual_**Breakfast_â_Google_SDE_summer_intern2027_4july_OA_Question**": true,
-    "LeetCode_Domino_and_Tromino_Tiling": true
+    "Manual_**Breakfast_Ã¢ÂÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
+    "LeetCode_Domino_and_Tromino_Tiling": true,
+    "LeetCode_Number_of_Visible_People_in_a_Queue": true
   },
-  "totalSolved": 18,
+  "totalSolved": 19,
   "difficultyCounts": {
     "easy": 5,
     "medium": 11,
-    "hard": 2,
+    "hard": 3,
     "basic": 0
   },
   "todayProblems": [
-    "Smallest Palindromic Rearrangement I",
-    "Shortest Palindrome",
-    "Consistent Data",
-    "**Breakfast â Google_SDE summer intern2027_4july OA Question**",
-    "Domino and Tromino Tiling"
+    "Number of Visible People in a Queue"
   ],
-  "currentStreak": 6,
-  "todayCount": 5,
-  "lastSyncDate": "2026-07-28",
-  "maxStreak": 6,
+  "currentStreak": 7,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-29",
+  "maxStreak": 7,
   "activityHistory": {
     "2026-07-23": 7,
     "2026-07-24": 1,
     "2026-07-25": 1,
     "2026-07-26": 1,
     "2026-07-27": 3,
-    "2026-07-28": 5
+    "2026-07-28": 5,
+    "2026-07-29": 1
   }
 }
