@@ -69,7 +69,7 @@
 | 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
 | 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
 | 69 | [Consistent Data](./Manual/Medium/Consistent%20Data) | [Manual](https://www.oahelper.in/problems/MjAyfDA/consistent-data) | Medium | 28 Jul 2026 | 07:51 pm |
-| 70 | [**Breakfast Ã¢ÂÂ Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
+| 70 | [**Breakfast ÃÂ¢ÃÂÃÂ Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -617,3 +617,4 @@
 <!---LeetCode Topics End-->
 | 71 | [Domino and Tromino Tiling](./LeetCode/Medium/Domino%20and%20Tromino%20Tiling) | [LeetCode](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | 28 Jul 2026 | 11:18 pm |
 | 72 | [Number of Visible People in a Queue](./LeetCode/Hard/Number%20of%20Visible%20People%20in%20a%20Queue) | [LeetCode](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | Hard | 29 Jul 2026 | 10:34 am |
+| 73 | [Smallest Palindromic Rearrangement II](./LeetCode/Hard/Smallest%20Palindromic%20Rearrangement%20II) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | 29 Jul 2026 | 08:28 pm |
