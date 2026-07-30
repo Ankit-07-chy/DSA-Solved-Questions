@@ -279,26 +279,28 @@
     "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
     "LeetCode_Shortest_Palindrome": true,
     "Manual_Consistent_Data": true,
-    "Manual_**Breakfast_ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
+    "Manual_**Breakfast_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
     "LeetCode_Domino_and_Tromino_Tiling": true,
     "LeetCode_Number_of_Visible_People_in_a_Queue": true,
     "LeetCode_Smallest_Palindromic_Rearrangement_II": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
-    "GeeksForGeeks_Count_Inversions": true
+    "GeeksForGeeks_Count_Inversions": true,
+    "LeetCode_Reverse_Pairs": true
   },
-  "totalSolved": 22,
+  "totalSolved": 23,
   "difficultyCounts": {
     "easy": 6,
     "medium": 12,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "todayProblems": [
     "Minimum Number of Pushes to Type Word I",
-    "Count Inversions"
+    "Count Inversions",
+    "Reverse Pairs"
   ],
   "currentStreak": 8,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-30",
   "maxStreak": 8,
   "activityHistory": {
@@ -309,6 +311,6 @@
     "2026-07-27": 3,
     "2026-07-28": 5,
     "2026-07-29": 2,
-    "2026-07-30": 2
+    "2026-07-30": 3
   }
 }
