@@ -279,26 +279,26 @@
     "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
     "LeetCode_Shortest_Palindrome": true,
     "Manual_Consistent_Data": true,
-    "Manual_**Breakfast_ÃÂ¢ÃÂÃÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
+    "Manual_**Breakfast_ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
     "LeetCode_Domino_and_Tromino_Tiling": true,
     "LeetCode_Number_of_Visible_People_in_a_Queue": true,
-    "LeetCode_Smallest_Palindromic_Rearrangement_II": true
+    "LeetCode_Smallest_Palindromic_Rearrangement_II": true,
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true
   },
-  "totalSolved": 20,
+  "totalSolved": 21,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 11,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Number of Visible People in a Queue",
-    "Smallest Palindromic Rearrangement II"
+    "Minimum Number of Pushes to Type Word I"
   ],
-  "currentStreak": 7,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-29",
-  "maxStreak": 7,
+  "currentStreak": 8,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-30",
+  "maxStreak": 8,
   "activityHistory": {
     "2026-07-23": 7,
     "2026-07-24": 1,
@@ -306,6 +306,7 @@
     "2026-07-26": 1,
     "2026-07-27": 3,
     "2026-07-28": 5,
-    "2026-07-29": 2
+    "2026-07-29": 2,
+    "2026-07-30": 1
   }
 }
