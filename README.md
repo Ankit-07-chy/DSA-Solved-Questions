@@ -69,7 +69,7 @@
 | 67 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 10:52 am |
 | 68 | [Shortest Palindrome](./LeetCode/Hard/Shortest%20Palindrome) | [LeetCode](https://leetcode.com/problems/shortest-palindrome/) | Hard | 28 Jul 2026 | 06:07 pm |
 | 69 | [Consistent Data](./Manual/Medium/Consistent%20Data) | [Manual](https://www.oahelper.in/problems/MjAyfDA/consistent-data) | Medium | 28 Jul 2026 | 07:51 pm |
-| 70 | [**Breakfast ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
+| 70 | [**Breakfast ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Google_SDE summer intern2027_4july OA Question**](./Manual/Medium/**Breakfast%20%E2%80%94%20Google_SDE%20summer%20intern2027_4july%20OA%20Question**) | [Manual](https://www.oahelper.in/problems/NDIxMnww/breakfast) | Medium | 28 Jul 2026 | 08:16 pm |
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -621,3 +621,4 @@
 | 74 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 30 Jul 2026 | 08:29 am |
 | 75 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 30 Jul 2026 | 08:35 pm |
 | 76 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 30 Jul 2026 | 10:37 pm |
+| 77 | [How Many Numbers Are Smaller Than the Current Number](./LeetCode/Easy/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number) | [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | 30 Jul 2026 | 10:50 pm |
