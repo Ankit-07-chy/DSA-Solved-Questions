@@ -279,7 +279,7 @@
     "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
     "LeetCode_Shortest_Palindrome": true,
     "Manual_Consistent_Data": true,
-    "Manual_**Breakfast_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
+    "Manual_**Breakfast_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Google_SDE_summer_intern2027_4july_OA_Question**": true,
     "LeetCode_Domino_and_Tromino_Tiling": true,
     "LeetCode_Number_of_Visible_People_in_a_Queue": true,
     "LeetCode_Smallest_Palindromic_Rearrangement_II": true,
@@ -287,20 +287,22 @@
     "GeeksForGeeks_Count_Inversions": true,
     "LeetCode_Reverse_Pairs": true,
     "LeetCode_How_Many_Numbers_Are_Smaller_Than_the_Current_Number": true,
-    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
+    "LeetCode_Count_the_Number_of_Fair_Pairs": true
   },
-  "totalSolved": 25,
+  "totalSolved": 26,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 13,
+    "medium": 14,
     "hard": 5,
     "basic": 0
   },
   "todayProblems": [
-    "Minimum Number of Pushes to Type Word II"
+    "Minimum Number of Pushes to Type Word II",
+    "Count the Number of Fair Pairs"
   ],
   "currentStreak": 9,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-31",
   "maxStreak": 9,
   "activityHistory": {
@@ -312,6 +314,6 @@
     "2026-07-28": 5,
     "2026-07-29": 2,
     "2026-07-30": 4,
-    "2026-07-31": 1
+    "2026-07-31": 2
   }
 }
