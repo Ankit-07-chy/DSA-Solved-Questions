@@ -1,1 +1,37 @@
-{"leetcode":{"shas":{"README.md":{"":"74b0bafa1144cf07bf6b8bcad188c186e34665f2"},"0486-predict-the-winner":{"sha":"","difficulty":"medium"}},"solved":1,"easy":0,"medium":1,"hard":0}}
+{
+  "leetcode": {
+    "shas": {
+      "README.md": {
+        "": "74b0bafa1144cf07bf6b8bcad188c186e34665f2"
+      },
+      "0486-predict-the-winner": {
+        "sha": "",
+        "difficulty": "medium"
+      }
+    },
+    "solved": 1,
+    "easy": 0,
+    "medium": 1,
+    "hard": 0
+  },
+  "syncedProblems": {
+    "Manual_370._Range_Addition": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "todayProblems": [
+    "370. Range Addition"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-01",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-08-01": 1
+  }
+}
