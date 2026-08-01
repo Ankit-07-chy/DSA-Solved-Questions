@@ -637,3 +637,4 @@
 | 80 | [K-diff Pairs in an Array](./LeetCode/Medium/K-diff%20Pairs%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | 31 Jul 2026 | 08:24 am |
 | 81 | [370. Range Addition](./Manual/Easy/370.%20Range%20Addition) | [Manual](https://algo.monster/liteproblems/370) | Easy | 01 Aug 2026 | 11:37 pm |
 | 82 | [Zero Array Transformation II](./LeetCode/Medium/Zero%20Array%20Transformation%20II) | [LeetCode](https://leetcode.com/problems/zero-array-transformation-ii/) | Medium | 02 Aug 2026 | 12:56 am |
+| 83 | [Zero Array Transformation I](./LeetCode/Medium/Zero%20Array%20Transformation%20I) | [LeetCode](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | 02 Aug 2026 | 01:14 am |
