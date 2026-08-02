@@ -20,12 +20,13 @@
     "LeetCode_Zero_Array_Transformation_I": true,
     "LeetCode_Maximum_Frequency_of_an_Element_After_Performing_Operations_I": true,
     "LeetCode_Maximize_Pair_Strength_Using_GCD": true,
-    "LeetCode_Maximum_Frequency_of_an_Element_After_Performing_Operations_II": true
+    "LeetCode_Maximum_Frequency_of_an_Element_After_Performing_Operations_II": true,
+    "LeetCode_Stone_Game": true
   },
-  "totalSolved": 6,
+  "totalSolved": 7,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 0
   },
@@ -34,14 +35,15 @@
     "Zero Array Transformation I",
     "Maximum Frequency of an Element After Performing Operations I",
     "Maximize Pair Strength Using GCD",
-    "Maximum Frequency of an Element After Performing Operations II"
+    "Maximum Frequency of an Element After Performing Operations II",
+    "Stone Game"
   ],
   "currentStreak": 2,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-02",
   "maxStreak": 2,
   "activityHistory": {
     "2026-08-01": 1,
-    "2026-08-02": 5
+    "2026-08-02": 6
   }
 }
