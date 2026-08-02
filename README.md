@@ -638,3 +638,4 @@
 | 81 | [370. Range Addition](./Manual/Easy/370.%20Range%20Addition) | [Manual](https://algo.monster/liteproblems/370) | Easy | 01 Aug 2026 | 11:37 pm |
 | 82 | [Zero Array Transformation II](./LeetCode/Medium/Zero%20Array%20Transformation%20II) | [LeetCode](https://leetcode.com/problems/zero-array-transformation-ii/) | Medium | 02 Aug 2026 | 12:56 am |
 | 83 | [Zero Array Transformation I](./LeetCode/Medium/Zero%20Array%20Transformation%20I) | [LeetCode](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | 02 Aug 2026 | 01:14 am |
+| 84 | [Maximum Frequency of an Element After Performing Operations I](./LeetCode/Medium/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I) | [LeetCode](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | Medium | 02 Aug 2026 | 12:30 pm |
