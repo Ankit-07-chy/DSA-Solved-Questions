@@ -22,11 +22,12 @@
     "LeetCode_Maximize_Pair_Strength_Using_GCD": true,
     "LeetCode_Maximum_Frequency_of_an_Element_After_Performing_Operations_II": true,
     "LeetCode_Stone_Game": true,
-    "GeeksForGeeks_Connected_Components_in_an_Undirected_Graph": true
+    "GeeksForGeeks_Connected_Components_in_an_Undirected_Graph": true,
+    "GeeksForGeeks_DFS_of_Graph": true
   },
-  "totalSolved": 8,
+  "totalSolved": 9,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 5,
     "hard": 1,
     "basic": 0
@@ -38,14 +39,15 @@
     "Maximize Pair Strength Using GCD",
     "Maximum Frequency of an Element After Performing Operations II",
     "Stone Game",
-    "Connected Components in an Undirected Graph"
+    "Connected Components in an Undirected Graph",
+    "DFS of Graph"
   ],
   "currentStreak": 2,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-08-02",
   "maxStreak": 2,
   "activityHistory": {
     "2026-08-01": 1,
-    "2026-08-02": 7
+    "2026-08-02": 8
   }
 }
