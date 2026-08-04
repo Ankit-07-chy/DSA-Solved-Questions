@@ -207,7 +207,7 @@
 | 205 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | LeetCode | Medium | 28 Jul 2026 | 10:52 am |
 | 206 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | LeetCode | Hard | 28 Jul 2026 | 06:07 pm |
 | 207 | [Consistent Data](https://www.oahelper.in/problems/MjAyfDA/consistent-data) |  | Medium | 28 Jul 2026 | 07:51 pm |
-| 208 | [Breakfast ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Google_SDE summer intern2027_4july OA Question](https://www.oahelper.in/problems/NDIxMnww/breakfast) |  | Medium | 28 Jul 2026 | 08:16 pm |
+| 208 | [Breakfast ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Google_SDE summer intern2027_4july OA Question](https://www.oahelper.in/problems/NDIxMnww/breakfast) |  | Medium | 28 Jul 2026 | 08:16 pm |
 | 209 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | LeetCode | Medium | 28 Jul 2026 | 11:18 pm |
 | 210 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | LeetCode | Hard | 29 Jul 2026 | 10:34 am |
 | 211 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | LeetCode | Hard | 29 Jul 2026 | 08:28 pm |

@@ -29,7 +29,7 @@ class Solution:
         """
 
         def find_nearest(queue):
-            visited = [[-1] * cols for i in range(rows)]
+            # visited = [[-1] * cols for i in range(rows)]
             while queue:
                 i, j = queue.popleft()
 
