@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
 
 ## Solved On
-16 Jul 2026 at 09:48 pm
+04 Aug 2026 at 06:48 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1">The Painter's Partition Problem-II</a></h2><h3>Difficulty Level: Hard</h3><hr><p><span style="font-size: 18.6667px;">Given an array <strong>arr[]</strong> where each element denotes the length of a board, and an integer <strong>k</strong> representing the number of <strong>painters</strong> available. Each painter takes <strong>1</strong> unit of time to paint <strong>1 unit length</strong> of a board.</span></p>
 <p><span style="font-size: 18.6667px;">Determine the <strong>minimum</strong> amount of time required to paint all the boards, under the constraint that each painter can paint only a <strong>contiguous</strong> sequence of boards (no skipping or splitting allowed).</span></p>
