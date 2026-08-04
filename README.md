@@ -234,6 +234,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
@@ -268,10 +271,12 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
