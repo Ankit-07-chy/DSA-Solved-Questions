@@ -239,6 +239,7 @@
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,8 +284,17 @@
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
