@@ -262,6 +262,7 @@
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
