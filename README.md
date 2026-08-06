@@ -244,6 +244,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
@@ -278,6 +279,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
@@ -285,6 +287,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Simulation
@@ -302,6 +305,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 ## Math
 |  |
@@ -311,4 +315,8 @@
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
