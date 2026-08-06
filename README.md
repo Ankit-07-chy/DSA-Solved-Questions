@@ -262,6 +262,7 @@
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
@@ -285,6 +286,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -339,4 +341,12 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0794-swim-in-rising-water) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
