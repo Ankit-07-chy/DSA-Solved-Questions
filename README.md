@@ -291,6 +291,7 @@
 | [0854-making-a-large-island](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1300-critical-connections-in-a-network](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
 | [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
 | [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
 ## Math
 |  |
@@ -349,4 +351,12 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
