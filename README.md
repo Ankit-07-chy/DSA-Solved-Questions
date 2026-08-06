@@ -303,4 +303,12 @@
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3561-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
