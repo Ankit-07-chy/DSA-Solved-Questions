@@ -2,6 +2,50 @@ class Solution:
     def remainingMethods(
         self, n: int, k: int, invocations: list[list[int]]
     ) -> list[int]:
+
+        adjList = [[] for _ in range(n)]
+        indegree = [0]*n
+        suspicious = [False]*n
+
+        for a,b in invocations:
+            adjList[a].append(b)
+            indegree[b] += 1
+
+        from collections import deque
+        queue = deque([])
+        queue.append(k)
+        suspicious[k] = True
+        
+        while queue:
+            temp = queue.popleft()
+            for neighbour in adjList[temp]:
+                indegree[neighbour] -=1
+                if suspicious[neighbour] == False:
+                    suspicious[neighbour] = True
+                    
+                    queue.append(neighbour)
+
+        result = []
+        can_remove_all = True
+        for i in range(n):
+            if indegree[i] > 0 and suspicious[i] == True:
+                can_remove_all = False
+                break
+        if can_remove_all == False:
+            return list(range(n)) 
+
+        return [i for i in range(n) if suspicious[i] == False]
+
+
+
+
+
+
+
+"""class Solution:
+    def remainingMethods(
+        self, n: int, k: int, invocations: list[list[int]]
+    ) -> list[int]:
         edges = [[] for _ in range(n)]
         in_degree = [0] * n
 
@@ -69,3 +113,4 @@ class Solution:
             for i in range(n):
                 result.append(i)
         return result'''
+        """
