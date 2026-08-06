@@ -358,5 +358,5 @@
 ## Bridge (Graph)
 |  |
 | ------- |
-| [1300-critical-connections-in-a-network](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
+| [1300-critical-connections-in-a-network/Tarjan's Algo](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
