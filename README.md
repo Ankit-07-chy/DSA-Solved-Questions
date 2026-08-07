@@ -361,3 +361,4 @@
 | [1300-critical-connections-in-a-network/Tarjan's Algo](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
+| 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |

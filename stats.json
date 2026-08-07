@@ -75,23 +75,25 @@
     "hard": 3
   },
   "syncedProblems": {
-    "GeeksForGeeks_Articulation_Point": true
+    "GeeksForGeeks_Articulation_Point": true,
+    "GeeksForGeeks_Frog_Jump": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 0,
+    "medium": 1,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Articulation Point"
+    "Frog Jump"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-06",
-  "maxStreak": 1,
+  "lastSyncDate": "2026-08-07",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-08-06": 1
+    "2026-08-06": 1,
+    "2026-08-07": 1
   }
 }
