@@ -260,6 +260,7 @@
 | [0403-frog-jump](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -371,6 +372,18 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
 | 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |
