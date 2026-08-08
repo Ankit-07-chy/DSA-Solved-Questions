@@ -1,44 +1,66 @@
+
 class Solution:
-    def isSubsetSum (self, arr, sum):
-        # code here 
+    def isSubsetSum(self, arr: list[int], sum: int) -> bool:
+        # code here
         n = len(arr)
-        dp = [[None] * (sum + 1) for _ in range(n)]
+        dp = [[None]*(sum+1) for i in range(n+1)]
         
-        def isSubset(idx,target):
-            if target == 0:
+        def recursion(idx,curr_sum):
+            if curr_sum == 0:
                 return True
-            if idx == 0:
-                return target == arr[0]
-            if target < 0:
+            elif idx >= n or curr_sum <0:
                 return False
-            if dp[idx][target] == None:
-                
-                pick = isSubset(idx-1,target-arr[idx])
-                not_pick = isSubset(idx-1,target)
-                dp[idx][target] = (pick or not_pick)
-            return dp[idx][target]
-        return isSubset(n-1,sum)
+            
+            
+            
+            if dp[idx][curr_sum] != None:
+                return dp[idx][curr_sum]
+            
+            # pick
+            pick = recursion(idx+1,curr_sum - arr[idx])
+            not_pick = recursion(idx+1,curr_sum)
+            dp[idx][curr_sum] = pick or not_pick
+            
+            return dp[idx][curr_sum]
+        return recursion(0,sum)
 
-
-# This code will give TLE
 '''
 class Solution:
-    def isSubsetSum (self, arr, sum):
-        # code here 
+    def isSubsetSum(self, arr: list[int], sum: int) -> bool:
+        # code here
         n = len(arr)
-        def isSubset(idx,arr,target):
-            if idx >= n and target == 0:
+        
+        dp = {}
+        
+        def recursion(idx,curr_sum):
+            if curr_sum == 0:
                 return True
-            if idx >= n and target != 0:
+            if idx >= n:
                 return False
-            if target == 0:
-                return True
-            if target < 0:
-                return False
-            # pick
-            one = isSubset(idx+1,arr,target-arr[idx])
-            #not pick
-            two = isSubset(idx+1,arr,target)
-            return one or two
-        return isSubset(0,arr,sum)
+            if (idx+1,curr_sum-arr[idx]) not in dp:
+                dp[(idx+1,curr_sum-arr[idx])] = recursion(idx+1,curr_sum - arr[idx])
+            pick = dp[(idx+1,curr_sum-arr[idx])]
+            if (idx+1,curr_sum) not in dp:
+                dp[(idx+1,curr_sum)] = recursion(idx+1,curr_sum)
+            not_pick = dp[(idx+1,curr_sum)]
+            return pick or not_pick
+            
+        return recursion(0,sum)
+        
+        # i = 0 ; j = 0
+        # n = len(arr)
+        # curr_sum = 0
+        # for j in range(n):
+        #     curr_sum += arr[j]
+            
+        #     if curr_sum == sum:
+        #         return True
+            
+        #     while curr_sum > sum:
+        #         curr_sum -= arr[i]
+        #         i += 1
+                
+        # return False
+        
         '''
+            
