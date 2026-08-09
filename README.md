@@ -242,6 +242,7 @@
 | [0794-swim-in-rising-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
@@ -260,6 +261,7 @@
 | [0403-frog-jump](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
 |  |
@@ -331,6 +333,7 @@
 ## Math
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -344,6 +347,7 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0794-swim-in-rising-water) |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -384,6 +388,18 @@
 |  |
 | ------- |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
 | 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |
