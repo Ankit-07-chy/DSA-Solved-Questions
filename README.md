@@ -260,6 +260,7 @@
 | ------- |
 | [0403-frog-jump](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -384,6 +385,7 @@
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
