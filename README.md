@@ -262,6 +262,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
 | [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
 |  |
@@ -383,6 +384,7 @@
 ## String
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -400,6 +402,10 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
 | 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |
