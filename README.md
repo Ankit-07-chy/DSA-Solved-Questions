@@ -410,3 +410,4 @@
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
 | 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |
 | 230 | [Frogs and Jumps](./GeeksForGeeks/Easy/Frogs%20and%20Jumps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frogs-and-jumps--170647/1) | Easy | 08 Aug 2026 | 12:23 am |
+| 231 | [Print Longest Common Subsequence](./Manual/Medium/Print%20Longest%20Common%20Subsequence) | [Manual](https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383?leftPanelTabValue=PROBLEM) | Medium | 10 Aug 2026 | 07:47 pm |
