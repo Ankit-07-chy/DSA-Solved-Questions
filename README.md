@@ -244,6 +244,7 @@
 | [0854-making-a-large-island](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
 ## Sorting
@@ -421,7 +423,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
@@ -437,6 +439,10 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
 | 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |
