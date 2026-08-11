@@ -235,6 +235,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0403-frog-jump) |
@@ -264,6 +265,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0403-frog-jump](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
@@ -423,7 +426,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
@@ -431,10 +434,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
