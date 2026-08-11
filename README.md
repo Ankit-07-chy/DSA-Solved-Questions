@@ -234,6 +234,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0403-frog-jump) |
@@ -420,10 +421,22 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 | 228 | [Articulation Point](./GeeksForGeeks/Hard/Articulation%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/articulation-point2616/1) | Hard | 06 Aug 2026 | 11:54 pm |
 | 229 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 07 Aug 2026 | 11:51 pm |
