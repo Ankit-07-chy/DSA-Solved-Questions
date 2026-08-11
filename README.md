@@ -245,15 +245,18 @@
 | [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 | [1876-map-of-highest-peak](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -417,7 +420,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
