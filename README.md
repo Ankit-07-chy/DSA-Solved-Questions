@@ -272,6 +272,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0542-01-matrix) |
+| [1170-shortest-common-supersequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
@@ -400,6 +401,7 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -423,12 +425,13 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
