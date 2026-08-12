@@ -428,7 +428,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1617-stone-game-iv) |
@@ -460,3 +460,4 @@
 | 230 | [Frogs and Jumps](./GeeksForGeeks/Easy/Frogs%20and%20Jumps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frogs-and-jumps--170647/1) | Easy | 08 Aug 2026 | 12:23 am |
 | 231 | [Print Longest Common Subsequence](./Manual/Medium/Print%20Longest%20Common%20Subsequence) | [Manual](https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383?leftPanelTabValue=PROBLEM) | Medium | 10 Aug 2026 | 07:47 pm |
 | 232 | [Longest Common Substring](./GeeksForGeeks/Medium/Longest%20Common%20Substring) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | Medium | 10 Aug 2026 | 08:04 pm |
+| 233 | [Sensor Data Correction](./Manual/Easy/Sensor%20Data%20Correction) | [Manual](https://www.oahelper.in/problems/OTEwMDAwNTM3fDA/sensor-data-correction?company_id=MTYzM3ww) | Easy | 12 Aug 2026 | 11:15 pm |
