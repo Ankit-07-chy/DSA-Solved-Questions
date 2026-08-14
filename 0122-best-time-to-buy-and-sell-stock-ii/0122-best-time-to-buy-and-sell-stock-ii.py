@@ -1,4 +1,20 @@
+# Tabulation Method with space Optimization
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        n = len(prices)
+        next_0,next_1 = 0,0
+        for i in range(n-1,-1,-1):
+            for j in range(1,-1,-1):          
+                curr_1 = max(-prices[i]+next_0,next_1)
+                curr_0 = max(prices[i]+next_1,next_0)
+                
+                next_0,next_1 = curr_0,curr_1
+        return next_1
+
+
+
 # Tabulation Method
+'''
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
@@ -13,7 +29,7 @@ class Solution:
                     dp[i][j] = max(prices[i]+dp[i+1][1], dp[i+1][0])
         return dp[0][1]
 
-
+'''
 # recursion + Memo
 """
 class Solution:
