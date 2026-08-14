@@ -4,11 +4,10 @@ class Solution:
         n = len(prices)
         next_0,next_1 = 0,0
         for i in range(n-1,-1,-1):
-            for j in range(1,-1,-1):          
-                curr_1 = max(-prices[i]+next_0,next_1)
-                curr_0 = max(prices[i]+next_1,next_0)
-                
-                next_0,next_1 = curr_0,curr_1
+         
+            curr_1 = max(-prices[i]+next_0,next_1)
+            curr_0 = max(prices[i]+next_1,next_0)
+            next_0,next_1 = curr_0,curr_1
         return next_1
 
 
