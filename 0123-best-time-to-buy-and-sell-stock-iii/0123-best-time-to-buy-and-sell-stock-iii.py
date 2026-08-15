@@ -1,6 +1,40 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
+
+        dp = [[[0 for _ in range(3)] for _ in range(2)]
+              for _ in range(n + 1)]
+
+        for i in range(n - 1, -1, -1):
+
+            # ---------- cap = 1 ----------
+            # buy = 1
+            p1 = -prices[i] + dp[i+1][0][1]
+            p2 = dp[i+1][1][1]
+            dp[i][1][1] = max(p1, p2)
+
+            # buy = 0
+            p3 = prices[i] + dp[i+1][1][0]
+            p4 = dp[i+1][0][1]
+            dp[i][0][1] = max(p3, p4)
+
+
+            # ---------- cap = 2 ----------
+            # buy = 1
+            p1 = -prices[i] + dp[i+1][0][2]
+            p2 = dp[i+1][1][2]
+            dp[i][1][2] = max(p1, p2)
+
+            # buy = 0
+            p3 = prices[i] + dp[i+1][1][1]
+            p4 = dp[i+1][0][2]
+            dp[i][0][2] = max(p3, p4)
+
+        return dp[0][1][2]
+'''
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        n = len(prices)
         dp = [[[None for _ in range(4)] for _ in range(3)] for _ in range(n+1)]
 
         def recursion(idx,buy,cap): # dp[n][2][3]
@@ -21,7 +55,7 @@ class Solution:
         return recursion(0,1,2)
 
 
-
+'''
 
 """
 class Solution:
