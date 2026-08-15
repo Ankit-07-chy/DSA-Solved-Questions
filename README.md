@@ -11,6 +11,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Matrix
 |  |
 | ------- |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
