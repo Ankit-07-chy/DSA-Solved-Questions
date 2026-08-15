@@ -12,6 +12,5 @@ class Solution:
             return 0 
         if total_xor != 0:
             return len(nums)
-        for num in nums:
-            if total_xor ^ num != 0:
-                return len(nums) - 1
+        
+        return len(nums) - 1
