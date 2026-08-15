@@ -1,3 +1,19 @@
+
+class Solution:
+    def maxProfit(self, prices: List[int], fee: int) -> int:
+        n = len(prices)
+        dp = [[0]*2 for i in range(n+1)]
+
+        for i in range(n-1,-1,-1):
+            buy = max(-prices[i]+dp[i+1][0], dp[i+1][1])
+            sell = max(prices[i]+dp[i+1][1]-fee, dp[i+1][0])
+
+            dp[i][1] = buy
+            dp[i][0] = sell 
+        return dp[0][1]
+
+'''
+
 class Solution:
     def maxProfit(self, prices: List[int], fee: int) -> int:
         
@@ -16,3 +32,4 @@ class Solution:
 
             return max(p1,p2)
         return recursion(0,1)
+'''
