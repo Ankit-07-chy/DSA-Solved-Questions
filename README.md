@@ -1,16 +1,3 @@
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-## Greedy
-|  |
-| ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-<!---LeetCode Topics End-->
+| # | Problem | Platform | Difficulty | Date Solved | Time |
+|---|---------|----------|------------|-------------|------|
+| 1 | [**Simplified Text Editor**](./Manual/Easy/**Simplified%20Text%20Editor**) | [Manual](https://www.oahelper.in/question-with-editor/OTEwMDAwNTM1fDA?company_id=MTYzM3ww) | Easy | 15 Aug 2026 | 12:45 pm |
