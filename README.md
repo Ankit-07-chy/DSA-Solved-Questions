@@ -12,6 +12,7 @@
 | [0221-maximal-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -33,4 +34,29 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+## Math
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
 <!---LeetCode Topics End-->
