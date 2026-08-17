@@ -13,6 +13,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
@@ -26,6 +27,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
 ## Matrix
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -91,5 +94,13 @@
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
 | 2 | [Longest Bitonic Subsequence](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | Medium | 17 Aug 2026 | 05:20 pm |
