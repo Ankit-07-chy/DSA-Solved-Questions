@@ -104,3 +104,4 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
 | 2 | [Longest Bitonic Subsequence](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | Medium | 17 Aug 2026 | 05:20 pm |
+| 3 | [Matrix Chain Multiplication](./GeeksForGeeks/Hard/Matrix%20Chain%20Multiplication) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | Hard | 17 Aug 2026 | 10:06 pm |
