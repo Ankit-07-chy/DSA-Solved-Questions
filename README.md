@@ -12,6 +12,7 @@
 | [0221-maximal-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -23,6 +24,7 @@
 | [0221-maximal-square](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Matrix
 |  |
@@ -40,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
@@ -69,4 +72,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
