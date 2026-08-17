@@ -92,3 +92,4 @@
 | ------- |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
+| 2 | [Longest Bitonic Subsequence](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | Medium | 17 Aug 2026 | 05:20 pm |

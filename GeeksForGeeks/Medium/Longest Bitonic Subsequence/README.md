@@ -1,0 +1,29 @@
+# Longest Bitonic Subsequence
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
+
+## Solved On
+17 Aug 2026 at 05:20 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1">Longest Bitonic Subsequence</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given an array of positive integers. Find&nbsp;the maximum length of Bitonic subsequence.&nbsp; A subsequence of array is called Bitonic if it is first strictly increasing, then strictly decreasing. R</span><span style="font-size: 18px;">eturn the maximum length of bitonic subsequence.</span><br>&nbsp;<br><span style="font-size: 14pt;"><strong>Note</strong> : A strictly increasing or a <strong>strictly</strong> decreasing sequence should not be considered as a bitonic sequence</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 5, nums[] = [1, 2, 5, 3, 2]
+<strong>Output: </strong>5
+<strong>Explanation: </strong>The sequence [1, 2, 5] is increasing and the sequence [3, 2] is decreasing so merging both we will get length 5.
+</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 8, nums[] = [1, 11, 2, 10, 4, 5, 2, 1]
+<strong>Output: </strong>6
+<strong>Explanation: </strong>The bitonic sequence [1, 2, 10, 4, 2, 1] has length 6.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 3, nums[] = [10, 20, 30]
+<strong>Output: </strong>0
+<strong>Explanation: </strong>The decreasing or increasing part cannot be empty.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 3, nums[] = [10, 10, 10]
+<strong>Output: </strong>0
+<strong>Explanation: </strong>No strictly increasing or decreasing sequence exists.</span>
+</pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤&nbsp;length of array ≤ 10<sup>3</sup><br>1 ≤ arr[i] ≤ 10<sup>4</sup></span></p>
