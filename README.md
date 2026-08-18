@@ -16,6 +16,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -32,6 +33,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1685-stone-game-v) |
 ## Matrix
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
