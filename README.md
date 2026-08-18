@@ -115,6 +115,10 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
 ## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
