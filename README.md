@@ -18,6 +18,7 @@
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
 | [1685-stone-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
