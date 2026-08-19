@@ -17,6 +17,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+| [1487-cinema-seat-allocation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1487-cinema-seat-allocation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
@@ -43,11 +44,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1487-cinema-seat-allocation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1487-cinema-seat-allocation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
 ## Math
 |  |
@@ -98,6 +101,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
+| [1487-cinema-seat-allocation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -115,11 +119,11 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
