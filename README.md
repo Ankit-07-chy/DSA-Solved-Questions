@@ -16,6 +16,7 @@
 | [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
 | [1487-cinema-seat-allocation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1487-cinema-seat-allocation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1129-longest-string-chain) |
 | [1487-cinema-seat-allocation](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -120,11 +122,11 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
@@ -132,6 +134,10 @@
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
 | 2 | [Longest Bitonic Subsequence](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | Medium | 17 Aug 2026 | 05:20 pm |
 | 3 | [Matrix Chain Multiplication](./GeeksForGeeks/Hard/Matrix%20Chain%20Multiplication) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | Hard | 17 Aug 2026 | 10:06 pm |
