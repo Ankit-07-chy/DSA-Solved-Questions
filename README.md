@@ -60,6 +60,7 @@
 | [0368-largest-divisible-subset](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [1685-stone-game-v](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2156-stone-game-ix) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
 | ------- |
@@ -122,11 +123,11 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0229-majority-element-ii) |
