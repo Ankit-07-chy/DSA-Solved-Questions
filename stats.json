@@ -231,23 +231,25 @@
     "hard": 15
   },
   "syncedProblems": {
-    "GeeksForGeeks_Root_to_Leaf_Paths": true
+    "GeeksForGeeks_Root_to_Leaf_Paths": true,
+    "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Root to Leaf Paths"
+    "Root to Leaf Paths",
+    "Children Sum in a Binary Tree"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-24",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-08-24": 1
+    "2026-08-24": 2
   }
 }
