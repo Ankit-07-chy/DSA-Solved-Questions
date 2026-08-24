@@ -6,24 +6,19 @@
 #         self.right = right
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        # just by watching the problem I can say it is related to level order traversal, 
         from collections import deque
         queue = deque([])
 
+        ans = 0
         queue.append([root,0])
-        ans = 1
         while queue:
-            size = len(queue)
-            
-            p1 = queue[0][1]; p2 = queue[-1][1]
-            ans = max(ans,p2-p1+1)
-
-            for i in range(0,size):
-                t,i = queue.popleft()
-                
-                if t.left:
-                    queue.append([t.left,2*i + 1])
-                if t.right:
-                    queue.append([t.right,2*i+2])
-
+            ans = max(ans,queue[-1][-1]-queue[0][-1]+1)
+            i = 0
+            for i in range(0,len(queue)):
+                node,idx = queue.popleft()
+                if node.left:
+                    queue.append([node.left,2*idx+1])
+                if node.right:
+                    queue.append([node.right,2*idx+2])
         return ans
+                
