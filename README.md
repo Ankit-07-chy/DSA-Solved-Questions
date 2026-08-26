@@ -1,24 +1,3 @@
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
-## Stack
-|  |
-| ------- |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
-## Tree
-|  |
-| ------- |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
-## Depth-First Search
-|  |
-| ------- |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
-## Binary Tree
-|  |
-| ------- |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
-<!---LeetCode Topics End-->
+| # | Problem | Platform | Difficulty | Date Solved | Time |
+|---|---------|----------|------------|-------------|------|
+| 1 | [Tree Boundary Traversal](./GeeksForGeeks/Medium/Tree%20Boundary%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | Medium | 26 Aug 2026 | 01:23 pm |
