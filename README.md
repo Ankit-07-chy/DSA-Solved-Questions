@@ -29,4 +29,24 @@
 |  |
 | ------- |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
