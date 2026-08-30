@@ -20,6 +20,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
