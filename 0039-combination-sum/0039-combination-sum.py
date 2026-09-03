@@ -1,17 +1,19 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = []; n = len(candidates)
-        def recursion(idx,stack,target):
-            if idx >= n:
-                return
-            if target == 0:
+        n = len(candidates)
+        result = []
+        def recursion(idx,stack,k):
+            if k == 0:
                 result.append(stack[:])
-                return
-            # pick
-            if target >= candidates[idx]:
-                stack.append(candidates[idx])
-                recursion(idx,stack,target-candidates[idx])
-                stack.pop()
-            recursion(idx+1,stack,target)
+                return 
+            elif idx >= n:
+                return 
+            else:
+                pick = 0
+                if k >= candidates[idx]:
+                    stack.append(candidates[idx])
+                    pick = recursion(idx,stack,k-candidates[idx])
+                    stack.pop()
+                not_pick = recursion(idx+1,stack,k)
         recursion(0,[],target)
         return result
