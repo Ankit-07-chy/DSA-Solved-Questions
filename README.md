@@ -38,6 +38,7 @@
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+| [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -105,6 +106,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -123,6 +125,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
