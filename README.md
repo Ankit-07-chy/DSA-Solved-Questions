@@ -7,6 +7,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0008-string-to-integer-atoi) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
