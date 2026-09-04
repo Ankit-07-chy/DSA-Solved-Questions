@@ -133,6 +133,7 @@
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 ## Prefix Sum
 |  |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
