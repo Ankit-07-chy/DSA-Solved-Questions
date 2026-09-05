@@ -151,3 +151,4 @@
 | 5 | [Predecessor and Successor](./GeeksForGeeks/Medium/Predecessor%20and%20Successor) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | Medium | 30 Aug 2026 | 01:23 am |
 | 6 | [Subsequence with Sum K](./GeeksForGeeks/Medium/Subsequence%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1) | Medium | 03 Sept 2026 | 07:41 pm |
 | 7 | [Palindromic Partitioning](./GeeksForGeeks/Hard/Palindromic%20Partitioning) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1) | Hard | 04 Sept 2026 | 04:28 pm |
+| 8 | [Rat in a Maze](./GeeksForGeeks/Medium/Rat%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Medium | 05 Sept 2026 | 12:25 pm |
