@@ -154,3 +154,4 @@
 | 6 | [Subsequence with Sum K](./GeeksForGeeks/Medium/Subsequence%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1) | Medium | 03 Sept 2026 | 07:41 pm |
 | 7 | [Palindromic Partitioning](./GeeksForGeeks/Hard/Palindromic%20Partitioning) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1) | Hard | 04 Sept 2026 | 04:28 pm |
 | 8 | [Rat in a Maze](./GeeksForGeeks/Medium/Rat%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Medium | 05 Sept 2026 | 12:25 pm |
+| 9 | [M-Coloring Problem](./GeeksForGeeks/Medium/M-Coloring%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | Medium | 05 Sept 2026 | 03:22 pm |
