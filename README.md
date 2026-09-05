@@ -48,6 +48,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4285-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4285-smallest-stable-index-ii) |
 ## Algorithm X
 |  |
 | ------- |
