@@ -160,3 +160,4 @@
 | 7 | [Palindromic Partitioning](./GeeksForGeeks/Hard/Palindromic%20Partitioning) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1) | Hard | 04 Sept 2026 | 04:28 pm |
 | 8 | [Rat in a Maze](./GeeksForGeeks/Medium/Rat%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Medium | 05 Sept 2026 | 12:25 pm |
 | 9 | [M-Coloring Problem](./GeeksForGeeks/Medium/M-Coloring%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | Medium | 05 Sept 2026 | 03:22 pm |
+| 10 | [Longest Subarray with Sum K](./GeeksForGeeks/Medium/Longest%20Subarray%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Medium | 06 Sept 2026 | 11:20 am |
