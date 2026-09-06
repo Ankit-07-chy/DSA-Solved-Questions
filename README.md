@@ -44,6 +44,7 @@
 | [0040-combination-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -153,6 +155,18 @@
 | ------- |
 | [0051-n-queens](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0052-n-queens-ii) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
