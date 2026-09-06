@@ -43,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
