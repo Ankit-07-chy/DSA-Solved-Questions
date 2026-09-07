@@ -1,3 +1,19 @@
+
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        n = len(nums)
+        ans = []
+        def recursion(idx):
+            if idx == n:
+                ans.append(nums[:])
+                return 
+            for i in range(idx,n):
+                nums[i],nums[idx] = nums[idx],nums[i]
+                recursion(idx+1)
+                nums[i],nums[idx] = nums[idx],nums[i]
+        recursion(0)
+        return ans
+'''
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
@@ -17,3 +33,4 @@ class Solution:
                     stack.pop()
         recursion([],visited)
         return ans
+'''
