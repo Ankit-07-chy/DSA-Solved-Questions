@@ -210,3 +210,4 @@
 | 11 | [Array Leaders](./GeeksForGeeks/Easy/Array%20Leaders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Easy | 07 Sept 2026 | 01:23 pm |
 | 12 | [Largest subarray with 0 sum](./GeeksForGeeks/Medium/Largest%20subarray%20with%200%20sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 08 Sept 2026 | 04:00 pm |
 | 13 | [Count Subarrays with given XOR](./GeeksForGeeks/Medium/Count%20Subarrays%20with%20given%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Medium | 08 Sept 2026 | 04:41 pm |
+| 14 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | 08 Sept 2026 | 08:25 pm |
