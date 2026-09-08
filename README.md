@@ -52,6 +52,7 @@
 | [0051-n-queens](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@
 | [0018-4sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -181,6 +183,7 @@
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
