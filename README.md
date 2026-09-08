@@ -203,3 +203,4 @@
 | 10 | [Longest Subarray with Sum K](./GeeksForGeeks/Medium/Longest%20Subarray%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Medium | 06 Sept 2026 | 11:20 am |
 | 11 | [Array Leaders](./GeeksForGeeks/Easy/Array%20Leaders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Easy | 07 Sept 2026 | 01:23 pm |
 | 12 | [Largest subarray with 0 sum](./GeeksForGeeks/Medium/Largest%20subarray%20with%200%20sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 08 Sept 2026 | 04:00 pm |
+| 13 | [Count Subarrays with given XOR](./GeeksForGeeks/Medium/Count%20Subarrays%20with%20given%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Medium | 08 Sept 2026 | 04:41 pm |
