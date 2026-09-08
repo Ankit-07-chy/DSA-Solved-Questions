@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
@@ -64,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
@@ -171,6 +173,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 ## Quicksort
