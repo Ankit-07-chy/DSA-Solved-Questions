@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
+| [4245-count-commas-in-range](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
