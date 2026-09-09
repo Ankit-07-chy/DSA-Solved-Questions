@@ -12,6 +12,7 @@
 | [0115-distinct-subsequences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0977-distinct-subsequences-ii) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -88,6 +89,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,6 +211,10 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
