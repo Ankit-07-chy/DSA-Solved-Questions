@@ -1,20 +1,23 @@
-WITH full_table AS (
-    SELECT
-        e.name AS Employee,
-        d.name AS Department,
-        e.salary AS Salary
-    FROM Employee e
-    JOIN Department d
-        ON e.departmentId = d.id
+with new_table as (
+    select 
+        e.salary, d.id
+    from Employee e
+    join Department d
+    on e.departmentId = d.id
+),
+
+max_sal_dep_wise as (
+    select id,max(salary) as salary
+    from new_table
+    group by id
 )
 
-SELECT
-    ft.Department,
-    ft.Employee,
-    ft.Salary
-FROM full_table ft
-WHERE ft.Salary = (
-    SELECT MAX(ft2.Salary)
-    FROM full_table ft2
-    WHERE ft2.Department = ft.Department
-);
+select 
+    d.name as Department,
+    e.name as Employee,
+    e.salary as Salary
+from Employee e
+join Department d
+on e.departmentId = d.id
+join max_sal_dep_wise as m
+on m.id = d.id and m.Salary = e.salary;
