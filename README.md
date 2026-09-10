@@ -103,6 +103,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,12 +120,14 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
