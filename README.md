@@ -62,6 +62,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
@@ -84,6 +85,7 @@
 | [0118-pascals-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0977-distinct-subsequences-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0056-merge-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
