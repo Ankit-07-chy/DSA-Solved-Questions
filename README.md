@@ -58,6 +58,7 @@
 | [0118-pascals-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0485-max-consecutive-ones) |
+| [0864-image-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0864-image-overlap) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -155,6 +156,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0864-image-overlap) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
