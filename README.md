@@ -89,6 +89,7 @@
 | [0118-pascals-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0977-distinct-subsequences-ii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Stack
@@ -167,6 +168,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -185,6 +187,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4285-smallest-stable-index-ii) |
 ## Algorithm X
@@ -244,6 +247,10 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
