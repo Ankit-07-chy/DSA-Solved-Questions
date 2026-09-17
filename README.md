@@ -19,12 +19,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -62,6 +64,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0864-image-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0864-image-overlap) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -89,6 +92,7 @@
 | [0118-pascals-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0977-distinct-subsequences-ii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -120,6 +124,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
