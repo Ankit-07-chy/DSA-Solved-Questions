@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -68,6 +70,7 @@
 | [0864-image-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0864-image-overlap) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -128,6 +131,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -196,6 +200,7 @@
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4285-smallest-stable-index-ii) |
 ## Algorithm X
