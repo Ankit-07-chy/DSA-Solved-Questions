@@ -75,6 +75,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
@@ -181,6 +182,7 @@
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4245-count-commas-in-range](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
