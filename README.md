@@ -12,6 +12,7 @@
 | [0115-distinct-subsequences](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0977-distinct-subsequences-ii) |
+| [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -170,6 +173,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -198,6 +202,7 @@
 | [0052-n-queens-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
+| [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -219,6 +224,7 @@
 | [0056-merge-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
