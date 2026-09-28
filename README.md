@@ -290,3 +290,4 @@
 | 12 | [Largest subarray with 0 sum](./GeeksForGeeks/Medium/Largest%20subarray%20with%200%20sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 08 Sept 2026 | 04:00 pm |
 | 13 | [Count Subarrays with given XOR](./GeeksForGeeks/Medium/Count%20Subarrays%20with%20given%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Medium | 08 Sept 2026 | 04:41 pm |
 | 14 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | 08 Sept 2026 | 08:25 pm |
+| 15 | [Prime in range](./Manual/Easy/Prime%20in%20range) | [Manual](https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-range4718/1) | Easy | 28 Sept 2026 | 06:21 pm |
