@@ -1,18 +1,18 @@
 class Solution:
     def reverseParentheses(self, s: str) -> str:
-        open_parentheses_indices = deque()
-        result = []
-
-        for current_char in s:
-            if current_char == "(":
-                # Store the current length as the start index
-                # for future reversal
-                open_parentheses_indices.append(len(result))
-            elif current_char == ")":
-                start = open_parentheses_indices.pop()
-                # Reverse the substring between the matching parentheses
-                result[start:] = result[start:][::-1]
+        ans = []
+        prev_idx = []
+        count =0
+        for i in range(len(s)):
+            if s[i] == '(':
+                prev_idx.append(i-count)
+                count += 1
+            elif s[i] == ')':
+                temp = prev_idx.pop()
+                ans[temp:] = ans[temp:][::-1]
+                count += 1
             else:
-                # Append non-parenthesis characters to the processed list
-                result.append(current_char)
-        return "".join(result)
+                ans.append(s[i])
+        return ''.join(ans)
+
+        ''' co -> etco => octe; edocteel : leetcode '''
