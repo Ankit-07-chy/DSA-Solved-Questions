@@ -14,6 +14,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -126,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -288,6 +291,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
