@@ -78,6 +78,7 @@
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0485-max-consecutive-ones) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0137-single-number-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
