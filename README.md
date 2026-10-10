@@ -50,6 +50,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -91,6 +92,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -161,6 +163,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -255,6 +258,7 @@
 | [0088-merge-sorted-array](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -330,6 +334,10 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
