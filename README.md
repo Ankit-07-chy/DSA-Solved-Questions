@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0204-count-primes) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
@@ -93,6 +94,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
