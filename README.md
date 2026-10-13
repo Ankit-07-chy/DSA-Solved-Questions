@@ -55,6 +55,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4285-smallest-stable-index-ii) |
@@ -266,6 +268,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
