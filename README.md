@@ -101,6 +101,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -189,6 +190,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -213,12 +215,14 @@
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1188-brace-expansion-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0864-image-overlap) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -345,6 +349,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
