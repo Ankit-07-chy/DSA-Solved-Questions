@@ -31,6 +31,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -103,6 +105,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -136,6 +139,7 @@
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +239,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0866-rectangle-overlap](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/0866-rectangle-overlap) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/4245-count-commas-in-range) |
@@ -359,6 +364,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
 | 2 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 28 Aug 2026 | 09:35 pm |
 | 3 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 28 Aug 2026 | 09:45 pm |
