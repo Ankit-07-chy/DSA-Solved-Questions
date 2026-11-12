@@ -107,6 +107,7 @@
 | [2833-count-zero-request-servers](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2833-count-zero-request-servers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Ankit-07-chy/DSA-Solved-Questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
